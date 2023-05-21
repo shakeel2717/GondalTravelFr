@@ -449,6 +449,7 @@ $router->get('flights/booking/invoice/(.*)', function () {
         $booking_ = $req->response->booking_response;
         $booking = $booking_[0];
         $routes = json_decode($booking->routes);
+        $passenger = json_decode($booking->booking_guest_info);
     };
 
     $title = "Flight Invoice";
