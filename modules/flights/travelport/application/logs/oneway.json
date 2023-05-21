@@ -1,0 +1,4157 @@
+{
+  "carrier_00e5009f": {
+    "fare_0b9e0218": {
+      "0": {
+        "origin": {
+          "airport": {
+            "code": "LHE",
+            "fullname": "Lahore Arpt",
+            "countryCode": "PK",
+            "stateCode": ""
+          },
+          "departure": {
+            "date": {
+              "year": "2023",
+              "month": "02",
+              "day": "28"
+            },
+            "time": {
+              "hour": "04",
+              "minute": "30",
+              "second": "00"
+            },
+            "timezone_stamp": "2023-02-28T04:30:00.000+05:00",
+            "timezone_name": ""
+          }
+        },
+        "destination": {
+          "airport": {
+            "code": "DXB",
+            "fullname": "Dubai Intl Arpt",
+            "countryCode": "AE",
+            "stateCode": ""
+          },
+          "arrival": {
+            "date": {
+              "year": "2023",
+              "month": "02",
+              "day": "28"
+            },
+            "time": {
+              "hour": "11",
+              "minute": "20",
+              "second": "00"
+            },
+            "timezone_stamp": "2023-02-28T11:20:00.000+04:00",
+            "timezone_name": ""
+          }
+        },
+        "flightItinerary": {
+          "totalOptions": 1,
+          "totalStops": 1,
+          "segments": [
+            [
+              {
+                "key": "EsNLbZTqWDKAkP6QEAAAAA==",
+                "flightNumber": "242",
+                "group": 0,
+                "journeyTime": "3 Hours 25 Minutes",
+                "origin": {
+                  "code": "LHE",
+                  "fullname": "Lahore Arpt",
+                  "countryCode": "PK",
+                  "stateCode": ""
+                },
+                "destination": {
+                  "code": "AUH",
+                  "fullname": "Dhabi Intl Arpt",
+                  "countryCode": "AE",
+                  "stateCode": ""
+                },
+                "departureTime": {
+                  "date": {
+                    "year": "2023",
+                    "month": "02",
+                    "day": "28"
+                  },
+                  "time": {
+                    "hour": "04",
+                    "minute": "30",
+                    "second": "00"
+                  },
+                  "timezone_stamp": "2023-02-28T04:30:00.000+05:00",
+                  "timezone_name": ""
+                },
+                "arrivalTime": {
+                  "date": {
+                    "year": "2023",
+                    "month": "02",
+                    "day": "28"
+                  },
+                  "time": {
+                    "hour": "06",
+                    "minute": "55",
+                    "second": "00"
+                  },
+                  "timezone_stamp": "2023-02-28T06:55:00.000+04:00",
+                  "timezone_name": ""
+                },
+                "aircraft": {
+                  "carrier": {
+                    "code": "EY",
+                    "fullname": "Etihad Airways",
+                    "shortname": "Etihad Airways",
+                    "image_path": "https://goprivate.wspan.com/sharedservices/images/airlineimages/logoAirEY.gif"
+                  },
+                  "equipment": {
+                    "code": "789",
+                    "fullname": "Boeing 787-9 Dreamliner",
+                    "shortname": "Boeing 787-9"
+                  },
+                  "image_path": "https://goprivate.wspan.com/sharedservices/images/airlineimages/logoAirEY.gif"
+                },
+                "totalDuration": {
+                  "day": "0",
+                  "hour": "03",
+                  "minute": "25",
+                  "second": "0"
+                },
+                "bookingInformation": {
+                  "BookingCode": "V",
+                  "BookingCount": "9",
+                  "CabinClass": "Economy"
+                },
+                "flightDetail": {
+                  "Key": "EsNLbZTqWDKAlP6QEAAAAA==",
+                  "Equipment": "789",
+                  "OriginTerminal": "M",
+                  "DestinationTerminal": "1",
+                  "AutomatedCheckin": false,
+                  "Origin": "LHE",
+                  "Destination": "AUH",
+                  "DepartureTime": "2023-02-28T04:30:00.000+05:00",
+                  "ArrivalTime": "2023-02-28T06:55:00.000+04:00",
+                  "FlightTime": 205,
+                  "TravelTime": 470
+                },
+                "fareInformation": {
+                  "BaggageAllowance": {
+                    "MaxWeight": {
+                      "Value": 0,
+                      "Unit": "Kilograms"
+                    }
+                  }
+                },
+                "fareDetails": {
+                  "basePrice": {
+                    "unit": "USD",
+                    "value": 219
+                  },
+                  "taxes": {
+                    "unit": "USD",
+                    "value": 44
+                  },
+                  "totalPrice": {
+                    "unit": "USD",
+                    "value": 263
+                  },
+                  "refundable": null
+                }
+              },
+              {
+                "key": "EsNLbZTqWDKAmP6QEAAAAA==",
+                "flightNumber": "5420",
+                "group": 0,
+                "journeyTime": "2 Hours 0 Minutes",
+                "origin": {
+                  "code": "AUH",
+                  "fullname": "Dhabi Intl Arpt",
+                  "countryCode": "AE",
+                  "stateCode": ""
+                },
+                "destination": {
+                  "code": "XNB",
+                  "fullname": "Travel Mall Ey Bus Station",
+                  "countryCode": "AE",
+                  "stateCode": ""
+                },
+                "departureTime": {
+                  "date": {
+                    "year": "2023",
+                    "month": "02",
+                    "day": "28"
+                  },
+                  "time": {
+                    "hour": "09",
+                    "minute": "20",
+                    "second": "00"
+                  },
+                  "timezone_stamp": "2023-02-28T09:20:00.000+04:00",
+                  "timezone_name": ""
+                },
+                "arrivalTime": {
+                  "date": {
+                    "year": "2023",
+                    "month": "02",
+                    "day": "28"
+                  },
+                  "time": {
+                    "hour": "11",
+                    "minute": "20",
+                    "second": "00"
+                  },
+                  "timezone_stamp": "2023-02-28T11:20:00.000+04:00",
+                  "timezone_name": ""
+                },
+                "aircraft": {
+                  "carrier": {
+                    "code": "EY",
+                    "fullname": "Etihad Airways",
+                    "shortname": "Etihad Airways",
+                    "image_path": "https://goprivate.wspan.com/sharedservices/images/airlineimages/logoAirEY.gif"
+                  },
+                  "equipment": {
+                    "code": "BUS",
+                    "fullname": "Bus Service",
+                    "shortname": "Bus Service"
+                  },
+                  "image_path": "https://goprivate.wspan.com/sharedservices/images/airlineimages/logoAirEY.gif"
+                },
+                "totalDuration": {
+                  "day": "0",
+                  "hour": "02",
+                  "minute": "0",
+                  "second": "0"
+                },
+                "bookingInformation": {
+                  "BookingCode": "V",
+                  "BookingCount": "9",
+                  "CabinClass": "Economy"
+                },
+                "flightDetail": {
+                  "Key": "EsNLbZTqWDKAnP6QEAAAAA==",
+                  "Equipment": "BUS",
+                  "OriginTerminal": "1",
+                  "AutomatedCheckin": false,
+                  "Origin": "AUH",
+                  "Destination": "XNB",
+                  "DepartureTime": "2023-02-28T09:20:00.000+04:00",
+                  "ArrivalTime": "2023-02-28T11:20:00.000+04:00",
+                  "FlightTime": 120,
+                  "TravelTime": 470
+                },
+                "fareInformation": {
+                  "BaggageAllowance": {
+                    "MaxWeight": {
+                      "Value": 0,
+                      "Unit": "Kilograms"
+                    }
+                  }
+                },
+                "fareDetails": {
+                  "basePrice": {
+                    "unit": "USD",
+                    "value": 219
+                  },
+                  "taxes": {
+                    "unit": "USD",
+                    "value": 44
+                  },
+                  "totalPrice": {
+                    "unit": "USD",
+                    "value": 263
+                  },
+                  "refundable": null
+                }
+              }
+            ]
+          ]
+        },
+        "aircraft": {
+          "carrier": {
+            "code": "EY",
+            "fullname": "Etihad Airways",
+            "shortname": "Etihad Airways",
+            "image_path": "https://goprivate.wspan.com/sharedservices/images/airlineimages/logoAirEY.gif"
+          },
+          "equipment": {
+            "code": "789",
+            "fullname": "Boeing 787-9 Dreamliner",
+            "shortname": "Boeing 787-9"
+          },
+          "image_path": "https://goprivate.wspan.com/sharedservices/images/airlineimages/logoAirEY.gif"
+        },
+        "totalDuration": {
+          "day": "0",
+          "hour": "07",
+          "minute": "50",
+          "second": "0"
+        }
+      },
+      "price": {
+        "totalprice_unit": "USD",
+        "totalprice_value": 263
+      }
+    },
+    "fare_0de7024a": {
+      "0": {
+        "origin": {
+          "airport": {
+            "code": "LHE",
+            "fullname": "Lahore Arpt",
+            "countryCode": "PK",
+            "stateCode": ""
+          },
+          "departure": {
+            "date": {
+              "year": "2023",
+              "month": "02",
+              "day": "28"
+            },
+            "time": {
+              "hour": "04",
+              "minute": "30",
+              "second": "00"
+            },
+            "timezone_stamp": "2023-02-28T04:30:00.000+05:00",
+            "timezone_name": ""
+          }
+        },
+        "destination": {
+          "airport": {
+            "code": "DXB",
+            "fullname": "Dubai Intl Arpt",
+            "countryCode": "AE",
+            "stateCode": ""
+          },
+          "arrival": {
+            "date": {
+              "year": "2023",
+              "month": "02",
+              "day": "28"
+            },
+            "time": {
+              "hour": "21",
+              "minute": "35",
+              "second": "00"
+            },
+            "timezone_stamp": "2023-02-28T21:35:00.000+04:00",
+            "timezone_name": ""
+          }
+        },
+        "flightItinerary": {
+          "totalOptions": 1,
+          "totalStops": 2,
+          "segments": [
+            [
+              {
+                "key": "EsNLbZTqWDKAkP6QEAAAAA==",
+                "flightNumber": "242",
+                "group": 0,
+                "journeyTime": "3 Hours 25 Minutes",
+                "origin": {
+                  "code": "LHE",
+                  "fullname": "Lahore Arpt",
+                  "countryCode": "PK",
+                  "stateCode": ""
+                },
+                "destination": {
+                  "code": "AUH",
+                  "fullname": "Dhabi Intl Arpt",
+                  "countryCode": "AE",
+                  "stateCode": ""
+                },
+                "departureTime": {
+                  "date": {
+                    "year": "2023",
+                    "month": "02",
+                    "day": "28"
+                  },
+                  "time": {
+                    "hour": "04",
+                    "minute": "30",
+                    "second": "00"
+                  },
+                  "timezone_stamp": "2023-02-28T04:30:00.000+05:00",
+                  "timezone_name": ""
+                },
+                "arrivalTime": {
+                  "date": {
+                    "year": "2023",
+                    "month": "02",
+                    "day": "28"
+                  },
+                  "time": {
+                    "hour": "06",
+                    "minute": "55",
+                    "second": "00"
+                  },
+                  "timezone_stamp": "2023-02-28T06:55:00.000+04:00",
+                  "timezone_name": ""
+                },
+                "aircraft": {
+                  "carrier": {
+                    "code": "EY",
+                    "fullname": "Etihad Airways",
+                    "shortname": "Etihad Airways",
+                    "image_path": "https://goprivate.wspan.com/sharedservices/images/airlineimages/logoAirEY.gif"
+                  },
+                  "equipment": {
+                    "code": "789",
+                    "fullname": "Boeing 787-9 Dreamliner",
+                    "shortname": "Boeing 787-9"
+                  },
+                  "image_path": "https://goprivate.wspan.com/sharedservices/images/airlineimages/logoAirEY.gif"
+                },
+                "totalDuration": {
+                  "day": "0",
+                  "hour": "03",
+                  "minute": "25",
+                  "second": "0"
+                },
+                "bookingInformation": {
+                  "BookingCode": "Y",
+                  "BookingCount": "9",
+                  "CabinClass": "Economy"
+                },
+                "flightDetail": {
+                  "Key": "EsNLbZTqWDKAlP6QEAAAAA==",
+                  "Equipment": "789",
+                  "OriginTerminal": "M",
+                  "DestinationTerminal": "1",
+                  "AutomatedCheckin": false,
+                  "Origin": "LHE",
+                  "Destination": "AUH",
+                  "DepartureTime": "2023-02-28T04:30:00.000+05:00",
+                  "ArrivalTime": "2023-02-28T06:55:00.000+04:00",
+                  "FlightTime": 205,
+                  "TravelTime": 470
+                },
+                "fareInformation": {
+                  "BaggageAllowance": {
+                    "MaxWeight": {
+                      "Value": 35,
+                      "Unit": "Kilograms"
+                    }
+                  }
+                },
+                "fareDetails": {
+                  "basePrice": {
+                    "unit": "USD",
+                    "value": 1560
+                  },
+                  "taxes": {
+                    "unit": "USD",
+                    "value": 152
+                  },
+                  "totalPrice": {
+                    "unit": "USD",
+                    "value": 1712
+                  },
+                  "refundable": true
+                }
+              },
+              {
+                "key": "EsNLbZTqWDKAbQ6QEAAAAA==",
+                "flightNumber": "386",
+                "group": 0,
+                "journeyTime": "1 Hours 10 Minutes",
+                "origin": {
+                  "code": "AUH",
+                  "fullname": "Dhabi Intl Arpt",
+                  "countryCode": "AE",
+                  "stateCode": ""
+                },
+                "destination": {
+                  "code": "MCT",
+                  "fullname": "Muscat Internatonal Arpt",
+                  "countryCode": "OM",
+                  "stateCode": ""
+                },
+                "departureTime": {
+                  "date": {
+                    "year": "2023",
+                    "month": "02",
+                    "day": "28"
+                  },
+                  "time": {
+                    "hour": "16",
+                    "minute": "35",
+                    "second": "00"
+                  },
+                  "timezone_stamp": "2023-02-28T16:35:00.000+04:00",
+                  "timezone_name": ""
+                },
+                "arrivalTime": {
+                  "date": {
+                    "year": "2023",
+                    "month": "02",
+                    "day": "28"
+                  },
+                  "time": {
+                    "hour": "17",
+                    "minute": "45",
+                    "second": "00"
+                  },
+                  "timezone_stamp": "2023-02-28T17:45:00.000+04:00",
+                  "timezone_name": ""
+                },
+                "aircraft": {
+                  "carrier": {
+                    "code": "EY",
+                    "fullname": "Etihad Airways",
+                    "shortname": "Etihad Airways",
+                    "image_path": "https://goprivate.wspan.com/sharedservices/images/airlineimages/logoAirEY.gif"
+                  },
+                  "equipment": {
+                    "code": "32A",
+                    "fullname": "Airbus Industrie A320 (Sharklets)",
+                    "shortname": "Airbus A320"
+                  },
+                  "image_path": "https://goprivate.wspan.com/sharedservices/images/airlineimages/logoAirEY.gif"
+                },
+                "totalDuration": {
+                  "day": "0",
+                  "hour": "01",
+                  "minute": "10",
+                  "second": "0"
+                },
+                "bookingInformation": {
+                  "BookingCode": "Y",
+                  "BookingCount": "9",
+                  "CabinClass": "Economy"
+                },
+                "flightDetail": {
+                  "Key": "EsNLbZTqWDKAcQ6QEAAAAA==",
+                  "Equipment": "32A",
+                  "OriginTerminal": "3",
+                  "AutomatedCheckin": false,
+                  "Origin": "AUH",
+                  "Destination": "MCT",
+                  "DepartureTime": "2023-02-28T16:35:00.000+04:00",
+                  "ArrivalTime": "2023-02-28T17:45:00.000+04:00",
+                  "FlightTime": 70,
+                  "TravelTime": 1085
+                },
+                "fareInformation": {
+                  "BaggageAllowance": {
+                    "MaxWeight": {
+                      "Value": 35,
+                      "Unit": "Kilograms"
+                    }
+                  }
+                },
+                "fareDetails": {
+                  "basePrice": {
+                    "unit": "USD",
+                    "value": 1560
+                  },
+                  "taxes": {
+                    "unit": "USD",
+                    "value": 152
+                  },
+                  "totalPrice": {
+                    "unit": "USD",
+                    "value": 1712
+                  },
+                  "refundable": true
+                }
+              },
+              {
+                "key": "EsNLbZTqWDKAyP6QEAAAAA==",
+                "flightNumber": "611",
+                "group": 0,
+                "journeyTime": "1 Hours 15 Minutes",
+                "origin": {
+                  "code": "MCT",
+                  "fullname": "Muscat Internatonal Arpt",
+                  "countryCode": "OM",
+                  "stateCode": ""
+                },
+                "destination": {
+                  "code": "DXB",
+                  "fullname": "Dubai Intl Arpt",
+                  "countryCode": "AE",
+                  "stateCode": ""
+                },
+                "departureTime": {
+                  "date": {
+                    "year": "2023",
+                    "month": "02",
+                    "day": "28"
+                  },
+                  "time": {
+                    "hour": "20",
+                    "minute": "20",
+                    "second": "00"
+                  },
+                  "timezone_stamp": "2023-02-28T20:20:00.000+04:00",
+                  "timezone_name": ""
+                },
+                "arrivalTime": {
+                  "date": {
+                    "year": "2023",
+                    "month": "02",
+                    "day": "28"
+                  },
+                  "time": {
+                    "hour": "21",
+                    "minute": "35",
+                    "second": "00"
+                  },
+                  "timezone_stamp": "2023-02-28T21:35:00.000+04:00",
+                  "timezone_name": ""
+                },
+                "aircraft": {
+                  "carrier": {
+                    "code": "WY",
+                    "fullname": "Oman Air",
+                    "shortname": "Oman Air",
+                    "image_path": "https://goprivate.wspan.com/sharedservices/images/airlineimages/logoAirWY.gif"
+                  },
+                  "equipment": {
+                    "code": "7M8",
+                    "fullname": "Boeing 737MAX 8 Passenger",
+                    "shortname": "Boeing 737Max"
+                  },
+                  "image_path": "https://goprivate.wspan.com/sharedservices/images/airlineimages/logoAirWY.gif"
+                },
+                "totalDuration": {
+                  "day": "0",
+                  "hour": "01",
+                  "minute": "15",
+                  "second": "0"
+                },
+                "bookingInformation": {
+                  "BookingCode": "I",
+                  "BookingCount": "7",
+                  "CabinClass": "Economy"
+                },
+                "flightDetail": {
+                  "Key": "EsNLbZTqWDKAzP6QEAAAAA==",
+                  "Equipment": "7M8",
+                  "DestinationTerminal": "1",
+                  "AutomatedCheckin": false,
+                  "Origin": "MCT",
+                  "Destination": "DXB",
+                  "DepartureTime": "2023-02-28T20:20:00.000+04:00",
+                  "ArrivalTime": "2023-02-28T21:35:00.000+04:00",
+                  "FlightTime": 75,
+                  "TravelTime": 455
+                },
+                "fareInformation": {
+                  "BaggageAllowance": {
+                    "MaxWeight": {
+                      "Value": 35,
+                      "Unit": "Kilograms"
+                    }
+                  }
+                },
+                "fareDetails": {
+                  "basePrice": {
+                    "unit": "USD",
+                    "value": 1560
+                  },
+                  "taxes": {
+                    "unit": "USD",
+                    "value": 152
+                  },
+                  "totalPrice": {
+                    "unit": "USD",
+                    "value": 1712
+                  },
+                  "refundable": true
+                }
+              }
+            ]
+          ]
+        },
+        "aircraft": {
+          "carrier": {
+            "code": "EY",
+            "fullname": "Etihad Airways",
+            "shortname": "Etihad Airways",
+            "image_path": "https://goprivate.wspan.com/sharedservices/images/airlineimages/logoAirEY.gif"
+          },
+          "equipment": {
+            "code": "789",
+            "fullname": "Boeing 787-9 Dreamliner",
+            "shortname": "Boeing 787-9"
+          },
+          "image_path": "https://goprivate.wspan.com/sharedservices/images/airlineimages/logoAirEY.gif"
+        },
+        "totalDuration": {
+          "day": "0",
+          "hour": "18",
+          "minute": "5",
+          "second": "0"
+        }
+      },
+      "price": {
+        "totalprice_unit": "USD",
+        "totalprice_value": 1712
+      }
+    }
+  },
+  "carrier_00f600a4": {
+    "fare_0b960218": {
+      "0": {
+        "origin": {
+          "airport": {
+            "code": "LHE",
+            "fullname": "Lahore Arpt",
+            "countryCode": "PK",
+            "stateCode": ""
+          },
+          "departure": {
+            "date": {
+              "year": "2023",
+              "month": "02",
+              "day": "28"
+            },
+            "time": {
+              "hour": "09",
+              "minute": "15",
+              "second": "00"
+            },
+            "timezone_stamp": "2023-02-28T09:15:00.000+05:00",
+            "timezone_name": ""
+          }
+        },
+        "destination": {
+          "airport": {
+            "code": "DXB",
+            "fullname": "Dubai Intl Arpt",
+            "countryCode": "AE",
+            "stateCode": ""
+          },
+          "arrival": {
+            "date": {
+              "year": "2023",
+              "month": "02",
+              "day": "28"
+            },
+            "time": {
+              "hour": "20",
+              "minute": "25",
+              "second": "00"
+            },
+            "timezone_stamp": "2023-02-28T20:25:00.000+04:00",
+            "timezone_name": ""
+          }
+        },
+        "flightItinerary": {
+          "totalOptions": 1,
+          "totalStops": 1,
+          "segments": [
+            [
+              {
+                "key": "EsNLbZTqWDKAoP6QEAAAAA==",
+                "flightNumber": "629",
+                "group": 0,
+                "journeyTime": "4 Hours 5 Minutes",
+                "origin": {
+                  "code": "LHE",
+                  "fullname": "Lahore Arpt",
+                  "countryCode": "PK",
+                  "stateCode": ""
+                },
+                "destination": {
+                  "code": "DOH",
+                  "fullname": "Doha International Arpt",
+                  "countryCode": "QA",
+                  "stateCode": ""
+                },
+                "departureTime": {
+                  "date": {
+                    "year": "2023",
+                    "month": "02",
+                    "day": "28"
+                  },
+                  "time": {
+                    "hour": "09",
+                    "minute": "15",
+                    "second": "00"
+                  },
+                  "timezone_stamp": "2023-02-28T09:15:00.000+05:00",
+                  "timezone_name": ""
+                },
+                "arrivalTime": {
+                  "date": {
+                    "year": "2023",
+                    "month": "02",
+                    "day": "28"
+                  },
+                  "time": {
+                    "hour": "11",
+                    "minute": "20",
+                    "second": "00"
+                  },
+                  "timezone_stamp": "2023-02-28T11:20:00.000+03:00",
+                  "timezone_name": ""
+                },
+                "aircraft": {
+                  "carrier": {
+                    "code": "QR",
+                    "fullname": "Qatar Airways (Q.C.S.C)",
+                    "shortname": "Qatar Airways",
+                    "image_path": "https://goprivate.wspan.com/sharedservices/images/airlineimages/logoAirQR.gif"
+                  },
+                  "equipment": {
+                    "code": "359",
+                    "fullname": "Airbus Industries A350-900",
+                    "shortname": "Airbus Industri"
+                  },
+                  "image_path": "https://goprivate.wspan.com/sharedservices/images/airlineimages/logoAirQR.gif"
+                },
+                "totalDuration": {
+                  "day": "0",
+                  "hour": "04",
+                  "minute": "5",
+                  "second": "0"
+                },
+                "bookingInformation": {
+                  "BookingCode": "T",
+                  "BookingCount": "9",
+                  "CabinClass": "Economy"
+                },
+                "flightDetail": {
+                  "Key": "EsNLbZTqWDKApP6QEAAAAA==",
+                  "Equipment": "359",
+                  "OriginTerminal": "M",
+                  "AutomatedCheckin": false,
+                  "Origin": "LHE",
+                  "Destination": "DOH",
+                  "DepartureTime": "2023-02-28T09:15:00.000+05:00",
+                  "ArrivalTime": "2023-02-28T11:20:00.000+03:00",
+                  "FlightTime": 245,
+                  "TravelTime": 730
+                },
+                "fareInformation": {
+                  "BaggageAllowance": {
+                    "MaxWeight": {
+                      "Value": 25,
+                      "Unit": "Kilograms"
+                    }
+                  }
+                },
+                "fareDetails": {
+                  "basePrice": {
+                    "unit": "USD",
+                    "value": 163
+                  },
+                  "taxes": {
+                    "unit": "USD",
+                    "value": 143
+                  },
+                  "totalPrice": {
+                    "unit": "USD",
+                    "value": 306
+                  },
+                  "refundable": true
+                }
+              },
+              {
+                "key": "EsNLbZTqWDKAqP6QEAAAAA==",
+                "flightNumber": "1014",
+                "group": 0,
+                "journeyTime": "1 Hours 20 Minutes",
+                "origin": {
+                  "code": "DOH",
+                  "fullname": "Doha International Arpt",
+                  "countryCode": "QA",
+                  "stateCode": ""
+                },
+                "destination": {
+                  "code": "DXB",
+                  "fullname": "Dubai Intl Arpt",
+                  "countryCode": "AE",
+                  "stateCode": ""
+                },
+                "departureTime": {
+                  "date": {
+                    "year": "2023",
+                    "month": "02",
+                    "day": "28"
+                  },
+                  "time": {
+                    "hour": "18",
+                    "minute": "05",
+                    "second": "00"
+                  },
+                  "timezone_stamp": "2023-02-28T18:05:00.000+03:00",
+                  "timezone_name": ""
+                },
+                "arrivalTime": {
+                  "date": {
+                    "year": "2023",
+                    "month": "02",
+                    "day": "28"
+                  },
+                  "time": {
+                    "hour": "20",
+                    "minute": "25",
+                    "second": "00"
+                  },
+                  "timezone_stamp": "2023-02-28T20:25:00.000+04:00",
+                  "timezone_name": ""
+                },
+                "aircraft": {
+                  "carrier": {
+                    "code": "QR",
+                    "fullname": "Qatar Airways (Q.C.S.C)",
+                    "shortname": "Qatar Airways",
+                    "image_path": "https://goprivate.wspan.com/sharedservices/images/airlineimages/logoAirQR.gif"
+                  },
+                  "equipment": {
+                    "code": "351",
+                    "fullname": null,
+                    "shortname": null
+                  },
+                  "image_path": "https://goprivate.wspan.com/sharedservices/images/airlineimages/logoAirQR.gif"
+                },
+                "totalDuration": {
+                  "day": "0",
+                  "hour": "01",
+                  "minute": "20",
+                  "second": "0"
+                },
+                "bookingInformation": {
+                  "BookingCode": "T",
+                  "BookingCount": "9",
+                  "CabinClass": "Economy"
+                },
+                "flightDetail": {
+                  "Key": "EsNLbZTqWDKArP6QEAAAAA==",
+                  "Equipment": "351",
+                  "DestinationTerminal": "1",
+                  "AutomatedCheckin": false,
+                  "Origin": "DOH",
+                  "Destination": "DXB",
+                  "DepartureTime": "2023-02-28T18:05:00.000+03:00",
+                  "ArrivalTime": "2023-02-28T20:25:00.000+04:00",
+                  "FlightTime": 80,
+                  "TravelTime": 730
+                },
+                "fareInformation": {
+                  "BaggageAllowance": {
+                    "MaxWeight": {
+                      "Value": 25,
+                      "Unit": "Kilograms"
+                    }
+                  }
+                },
+                "fareDetails": {
+                  "basePrice": {
+                    "unit": "USD",
+                    "value": 163
+                  },
+                  "taxes": {
+                    "unit": "USD",
+                    "value": 143
+                  },
+                  "totalPrice": {
+                    "unit": "USD",
+                    "value": 306
+                  },
+                  "refundable": true
+                }
+              }
+            ]
+          ]
+        },
+        "aircraft": {
+          "carrier": {
+            "code": "QR",
+            "fullname": "Qatar Airways (Q.C.S.C)",
+            "shortname": "Qatar Airways",
+            "image_path": "https://goprivate.wspan.com/sharedservices/images/airlineimages/logoAirQR.gif"
+          },
+          "equipment": {
+            "code": "359",
+            "fullname": "Airbus Industries A350-900",
+            "shortname": "Airbus Industri"
+          },
+          "image_path": "https://goprivate.wspan.com/sharedservices/images/airlineimages/logoAirQR.gif"
+        },
+        "totalDuration": {
+          "day": "0",
+          "hour": "12",
+          "minute": "10",
+          "second": "0"
+        }
+      },
+      "price": {
+        "totalprice_unit": "USD",
+        "totalprice_value": 306
+      }
+    },
+    "fare_0ba6021d": {
+      "0": {
+        "origin": {
+          "airport": {
+            "code": "LHE",
+            "fullname": "Lahore Arpt",
+            "countryCode": "PK",
+            "stateCode": ""
+          },
+          "departure": {
+            "date": {
+              "year": "2023",
+              "month": "02",
+              "day": "28"
+            },
+            "time": {
+              "hour": "03",
+              "minute": "00",
+              "second": "00"
+            },
+            "timezone_stamp": "2023-02-28T03:00:00.000+05:00",
+            "timezone_name": ""
+          }
+        },
+        "destination": {
+          "airport": {
+            "code": "DXB",
+            "fullname": "Dubai Intl Arpt",
+            "countryCode": "AE",
+            "stateCode": ""
+          },
+          "arrival": {
+            "date": {
+              "year": "2023",
+              "month": "02",
+              "day": "28"
+            },
+            "time": {
+              "hour": "15",
+              "minute": "35",
+              "second": "00"
+            },
+            "timezone_stamp": "2023-02-28T15:35:00.000+04:00",
+            "timezone_name": ""
+          }
+        },
+        "flightItinerary": {
+          "totalOptions": 1,
+          "totalStops": 2,
+          "segments": [
+            [
+              {
+                "key": "EsNLbZTqWDKAEQ6QEAAAAA==",
+                "flightNumber": "621",
+                "group": 0,
+                "journeyTime": "4 Hours 5 Minutes",
+                "origin": {
+                  "code": "LHE",
+                  "fullname": "Lahore Arpt",
+                  "countryCode": "PK",
+                  "stateCode": ""
+                },
+                "destination": {
+                  "code": "DOH",
+                  "fullname": "Doha International Arpt",
+                  "countryCode": "QA",
+                  "stateCode": ""
+                },
+                "departureTime": {
+                  "date": {
+                    "year": "2023",
+                    "month": "02",
+                    "day": "28"
+                  },
+                  "time": {
+                    "hour": "03",
+                    "minute": "00",
+                    "second": "00"
+                  },
+                  "timezone_stamp": "2023-02-28T03:00:00.000+05:00",
+                  "timezone_name": ""
+                },
+                "arrivalTime": {
+                  "date": {
+                    "year": "2023",
+                    "month": "02",
+                    "day": "28"
+                  },
+                  "time": {
+                    "hour": "05",
+                    "minute": "05",
+                    "second": "00"
+                  },
+                  "timezone_stamp": "2023-02-28T05:05:00.000+03:00",
+                  "timezone_name": ""
+                },
+                "aircraft": {
+                  "carrier": {
+                    "code": "QR",
+                    "fullname": "Qatar Airways (Q.C.S.C)",
+                    "shortname": "Qatar Airways",
+                    "image_path": "https://goprivate.wspan.com/sharedservices/images/airlineimages/logoAirQR.gif"
+                  },
+                  "equipment": {
+                    "code": "351",
+                    "fullname": null,
+                    "shortname": null
+                  },
+                  "image_path": "https://goprivate.wspan.com/sharedservices/images/airlineimages/logoAirQR.gif"
+                },
+                "totalDuration": {
+                  "day": "0",
+                  "hour": "04",
+                  "minute": "5",
+                  "second": "0"
+                },
+                "bookingInformation": {
+                  "BookingCode": "T",
+                  "BookingCount": "9",
+                  "CabinClass": "Economy"
+                },
+                "flightDetail": {
+                  "Key": "EsNLbZTqWDKAFQ6QEAAAAA==",
+                  "Equipment": "351",
+                  "OriginTerminal": "M",
+                  "AutomatedCheckin": false,
+                  "Origin": "LHE",
+                  "Destination": "DOH",
+                  "DepartureTime": "2023-02-28T03:00:00.000+05:00",
+                  "ArrivalTime": "2023-02-28T05:05:00.000+03:00",
+                  "FlightTime": 245,
+                  "TravelTime": 815
+                },
+                "fareInformation": {
+                  "BaggageAllowance": {
+                    "MaxWeight": {
+                      "Value": 25,
+                      "Unit": "Kilograms"
+                    }
+                  }
+                },
+                "fareDetails": {
+                  "basePrice": {
+                    "unit": "USD",
+                    "value": 243
+                  },
+                  "taxes": {
+                    "unit": "USD",
+                    "value": 164
+                  },
+                  "totalPrice": {
+                    "unit": "USD",
+                    "value": 407
+                  },
+                  "refundable": true
+                }
+              },
+              {
+                "key": "EsNLbZTqWDKAGQ6QEAAAAA==",
+                "flightNumber": "4637",
+                "group": 0,
+                "journeyTime": "1 Hours 30 Minutes",
+                "origin": {
+                  "code": "DOH",
+                  "fullname": "Doha International Arpt",
+                  "countryCode": "QA",
+                  "stateCode": ""
+                },
+                "destination": {
+                  "code": "MCT",
+                  "fullname": "Muscat Internatonal Arpt",
+                  "countryCode": "OM",
+                  "stateCode": ""
+                },
+                "departureTime": {
+                  "date": {
+                    "year": "2023",
+                    "month": "02",
+                    "day": "28"
+                  },
+                  "time": {
+                    "hour": "07",
+                    "minute": "50",
+                    "second": "00"
+                  },
+                  "timezone_stamp": "2023-02-28T07:50:00.000+03:00",
+                  "timezone_name": ""
+                },
+                "arrivalTime": {
+                  "date": {
+                    "year": "2023",
+                    "month": "02",
+                    "day": "28"
+                  },
+                  "time": {
+                    "hour": "10",
+                    "minute": "20",
+                    "second": "00"
+                  },
+                  "timezone_stamp": "2023-02-28T10:20:00.000+04:00",
+                  "timezone_name": ""
+                },
+                "aircraft": {
+                  "carrier": {
+                    "code": "QR",
+                    "fullname": "Qatar Airways (Q.C.S.C)",
+                    "shortname": "Qatar Airways",
+                    "image_path": "https://goprivate.wspan.com/sharedservices/images/airlineimages/logoAirQR.gif"
+                  },
+                  "equipment": {
+                    "code": "7M8",
+                    "fullname": "Boeing 737MAX 8 Passenger",
+                    "shortname": "Boeing 737Max"
+                  },
+                  "image_path": "https://goprivate.wspan.com/sharedservices/images/airlineimages/logoAirQR.gif"
+                },
+                "totalDuration": {
+                  "day": "0",
+                  "hour": "01",
+                  "minute": "30",
+                  "second": "0"
+                },
+                "bookingInformation": {
+                  "BookingCode": "T",
+                  "BookingCount": "9",
+                  "CabinClass": "Economy"
+                },
+                "flightDetail": {
+                  "Key": "EsNLbZTqWDKAHQ6QEAAAAA==",
+                  "Equipment": "7M8",
+                  "AutomatedCheckin": false,
+                  "Origin": "DOH",
+                  "Destination": "MCT",
+                  "DepartureTime": "2023-02-28T07:50:00.000+03:00",
+                  "ArrivalTime": "2023-02-28T10:20:00.000+04:00",
+                  "FlightTime": 90,
+                  "TravelTime": 815
+                },
+                "fareInformation": {
+                  "BaggageAllowance": {
+                    "MaxWeight": {
+                      "Value": 25,
+                      "Unit": "Kilograms"
+                    }
+                  }
+                },
+                "fareDetails": {
+                  "basePrice": {
+                    "unit": "USD",
+                    "value": 243
+                  },
+                  "taxes": {
+                    "unit": "USD",
+                    "value": 164
+                  },
+                  "totalPrice": {
+                    "unit": "USD",
+                    "value": 407
+                  },
+                  "refundable": true
+                }
+              },
+              {
+                "key": "EsNLbZTqWDKAJQ6QEAAAAA==",
+                "flightNumber": "609",
+                "group": 0,
+                "journeyTime": "1 Hours 15 Minutes",
+                "origin": {
+                  "code": "MCT",
+                  "fullname": "Muscat Internatonal Arpt",
+                  "countryCode": "OM",
+                  "stateCode": ""
+                },
+                "destination": {
+                  "code": "DXB",
+                  "fullname": "Dubai Intl Arpt",
+                  "countryCode": "AE",
+                  "stateCode": ""
+                },
+                "departureTime": {
+                  "date": {
+                    "year": "2023",
+                    "month": "02",
+                    "day": "28"
+                  },
+                  "time": {
+                    "hour": "14",
+                    "minute": "20",
+                    "second": "00"
+                  },
+                  "timezone_stamp": "2023-02-28T14:20:00.000+04:00",
+                  "timezone_name": ""
+                },
+                "arrivalTime": {
+                  "date": {
+                    "year": "2023",
+                    "month": "02",
+                    "day": "28"
+                  },
+                  "time": {
+                    "hour": "15",
+                    "minute": "35",
+                    "second": "00"
+                  },
+                  "timezone_stamp": "2023-02-28T15:35:00.000+04:00",
+                  "timezone_name": ""
+                },
+                "aircraft": {
+                  "carrier": {
+                    "code": "WY",
+                    "fullname": "Oman Air",
+                    "shortname": "Oman Air",
+                    "image_path": "https://goprivate.wspan.com/sharedservices/images/airlineimages/logoAirWY.gif"
+                  },
+                  "equipment": {
+                    "code": "7M8",
+                    "fullname": "Boeing 737MAX 8 Passenger",
+                    "shortname": "Boeing 737Max"
+                  },
+                  "image_path": "https://goprivate.wspan.com/sharedservices/images/airlineimages/logoAirWY.gif"
+                },
+                "totalDuration": {
+                  "day": "0",
+                  "hour": "01",
+                  "minute": "15",
+                  "second": "0"
+                },
+                "bookingInformation": {
+                  "BookingCode": "E",
+                  "BookingCount": "7",
+                  "CabinClass": "Economy"
+                },
+                "flightDetail": {
+                  "Key": "EsNLbZTqWDKAKQ6QEAAAAA==",
+                  "Equipment": "7M8",
+                  "DestinationTerminal": "1",
+                  "AutomatedCheckin": false,
+                  "Origin": "MCT",
+                  "Destination": "DXB",
+                  "DepartureTime": "2023-02-28T14:20:00.000+04:00",
+                  "ArrivalTime": "2023-02-28T15:35:00.000+04:00",
+                  "FlightTime": 75,
+                  "TravelTime": 815
+                },
+                "fareInformation": {
+                  "BaggageAllowance": {
+                    "MaxWeight": {
+                      "Value": 25,
+                      "Unit": "Kilograms"
+                    }
+                  }
+                },
+                "fareDetails": {
+                  "basePrice": {
+                    "unit": "USD",
+                    "value": 243
+                  },
+                  "taxes": {
+                    "unit": "USD",
+                    "value": 164
+                  },
+                  "totalPrice": {
+                    "unit": "USD",
+                    "value": 407
+                  },
+                  "refundable": true
+                }
+              }
+            ]
+          ]
+        },
+        "aircraft": {
+          "carrier": {
+            "code": "QR",
+            "fullname": "Qatar Airways (Q.C.S.C)",
+            "shortname": "Qatar Airways",
+            "image_path": "https://goprivate.wspan.com/sharedservices/images/airlineimages/logoAirQR.gif"
+          },
+          "equipment": {
+            "code": "351",
+            "fullname": null,
+            "shortname": null
+          },
+          "image_path": "https://goprivate.wspan.com/sharedservices/images/airlineimages/logoAirQR.gif"
+        },
+        "totalDuration": {
+          "day": "0",
+          "hour": "13",
+          "minute": "35",
+          "second": "0"
+        }
+      },
+      "price": {
+        "totalprice_unit": "USD",
+        "totalprice_value": 407
+      }
+    },
+    "fare_0bc30221": {
+      "0": {
+        "origin": {
+          "airport": {
+            "code": "LHE",
+            "fullname": "Lahore Arpt",
+            "countryCode": "PK",
+            "stateCode": ""
+          },
+          "departure": {
+            "date": {
+              "year": "2023",
+              "month": "02",
+              "day": "28"
+            },
+            "time": {
+              "hour": "21",
+              "minute": "10",
+              "second": "00"
+            },
+            "timezone_stamp": "2023-02-28T21:10:00.000+05:00",
+            "timezone_name": ""
+          }
+        },
+        "destination": {
+          "airport": {
+            "code": "DXB",
+            "fullname": "Dubai Intl Arpt",
+            "countryCode": "AE",
+            "stateCode": ""
+          },
+          "arrival": {
+            "date": {
+              "year": "2023",
+              "month": "03",
+              "day": "01"
+            },
+            "time": {
+              "hour": "03",
+              "minute": "50",
+              "second": "00"
+            },
+            "timezone_stamp": "2023-03-01T03:50:00.000+04:00",
+            "timezone_name": ""
+          }
+        },
+        "flightItinerary": {
+          "totalOptions": 1,
+          "totalStops": 1,
+          "segments": [
+            [
+              {
+                "key": "EsNLbZTqWDKAVQ6QEAAAAA==",
+                "flightNumber": "609",
+                "group": 0,
+                "journeyTime": "4 Hours 5 Minutes",
+                "origin": {
+                  "code": "LHE",
+                  "fullname": "Lahore Arpt",
+                  "countryCode": "PK",
+                  "stateCode": ""
+                },
+                "destination": {
+                  "code": "DOH",
+                  "fullname": "Doha International Arpt",
+                  "countryCode": "QA",
+                  "stateCode": ""
+                },
+                "departureTime": {
+                  "date": {
+                    "year": "2023",
+                    "month": "02",
+                    "day": "28"
+                  },
+                  "time": {
+                    "hour": "21",
+                    "minute": "10",
+                    "second": "00"
+                  },
+                  "timezone_stamp": "2023-02-28T21:10:00.000+05:00",
+                  "timezone_name": ""
+                },
+                "arrivalTime": {
+                  "date": {
+                    "year": "2023",
+                    "month": "02",
+                    "day": "28"
+                  },
+                  "time": {
+                    "hour": "23",
+                    "minute": "15",
+                    "second": "00"
+                  },
+                  "timezone_stamp": "2023-02-28T23:15:00.000+03:00",
+                  "timezone_name": ""
+                },
+                "aircraft": {
+                  "carrier": {
+                    "code": "QR",
+                    "fullname": "Qatar Airways (Q.C.S.C)",
+                    "shortname": "Qatar Airways",
+                    "image_path": "https://goprivate.wspan.com/sharedservices/images/airlineimages/logoAirQR.gif"
+                  },
+                  "equipment": {
+                    "code": "788",
+                    "fullname": "Boeing 787-8 Dreamliner",
+                    "shortname": "Boeing 787-8"
+                  },
+                  "image_path": "https://goprivate.wspan.com/sharedservices/images/airlineimages/logoAirQR.gif"
+                },
+                "totalDuration": {
+                  "day": "0",
+                  "hour": "04",
+                  "minute": "5",
+                  "second": "0"
+                },
+                "bookingInformation": {
+                  "BookingCode": "M",
+                  "BookingCount": "5",
+                  "CabinClass": "Economy"
+                },
+                "flightDetail": {
+                  "Key": "EsNLbZTqWDKAWQ6QEAAAAA==",
+                  "Equipment": "788",
+                  "OriginTerminal": "M",
+                  "AutomatedCheckin": false,
+                  "Origin": "LHE",
+                  "Destination": "DOH",
+                  "DepartureTime": "2023-02-28T21:10:00.000+05:00",
+                  "ArrivalTime": "2023-02-28T23:15:00.000+03:00",
+                  "FlightTime": 245,
+                  "TravelTime": 460
+                },
+                "fareInformation": {
+                  "BaggageAllowance": {
+                    "MaxWeight": {
+                      "Value": 30,
+                      "Unit": "Kilograms"
+                    }
+                  }
+                },
+                "fareDetails": {
+                  "basePrice": {
+                    "unit": "USD",
+                    "value": 496
+                  },
+                  "taxes": {
+                    "unit": "USD",
+                    "value": 143
+                  },
+                  "totalPrice": {
+                    "unit": "USD",
+                    "value": 639
+                  },
+                  "refundable": true
+                }
+              },
+              {
+                "key": "EsNLbZTqWDKAXQ6QEAAAAA==",
+                "flightNumber": "1002",
+                "group": 0,
+                "journeyTime": "1 Hours 20 Minutes",
+                "origin": {
+                  "code": "DOH",
+                  "fullname": "Doha International Arpt",
+                  "countryCode": "QA",
+                  "stateCode": ""
+                },
+                "destination": {
+                  "code": "DXB",
+                  "fullname": "Dubai Intl Arpt",
+                  "countryCode": "AE",
+                  "stateCode": ""
+                },
+                "departureTime": {
+                  "date": {
+                    "year": "2023",
+                    "month": "03",
+                    "day": "01"
+                  },
+                  "time": {
+                    "hour": "01",
+                    "minute": "30",
+                    "second": "00"
+                  },
+                  "timezone_stamp": "2023-03-01T01:30:00.000+03:00",
+                  "timezone_name": ""
+                },
+                "arrivalTime": {
+                  "date": {
+                    "year": "2023",
+                    "month": "03",
+                    "day": "01"
+                  },
+                  "time": {
+                    "hour": "03",
+                    "minute": "50",
+                    "second": "00"
+                  },
+                  "timezone_stamp": "2023-03-01T03:50:00.000+04:00",
+                  "timezone_name": ""
+                },
+                "aircraft": {
+                  "carrier": {
+                    "code": "QR",
+                    "fullname": "Qatar Airways (Q.C.S.C)",
+                    "shortname": "Qatar Airways",
+                    "image_path": "https://goprivate.wspan.com/sharedservices/images/airlineimages/logoAirQR.gif"
+                  },
+                  "equipment": {
+                    "code": "351",
+                    "fullname": null,
+                    "shortname": null
+                  },
+                  "image_path": "https://goprivate.wspan.com/sharedservices/images/airlineimages/logoAirQR.gif"
+                },
+                "totalDuration": {
+                  "day": "0",
+                  "hour": "01",
+                  "minute": "20",
+                  "second": "0"
+                },
+                "bookingInformation": {
+                  "BookingCode": "M",
+                  "BookingCount": "5",
+                  "CabinClass": "Economy"
+                },
+                "flightDetail": {
+                  "Key": "EsNLbZTqWDKAYQ6QEAAAAA==",
+                  "Equipment": "351",
+                  "DestinationTerminal": "1",
+                  "AutomatedCheckin": false,
+                  "Origin": "DOH",
+                  "Destination": "DXB",
+                  "DepartureTime": "2023-03-01T01:30:00.000+03:00",
+                  "ArrivalTime": "2023-03-01T03:50:00.000+04:00",
+                  "FlightTime": 80,
+                  "TravelTime": 460
+                },
+                "fareInformation": {
+                  "BaggageAllowance": {
+                    "MaxWeight": {
+                      "Value": 30,
+                      "Unit": "Kilograms"
+                    }
+                  }
+                },
+                "fareDetails": {
+                  "basePrice": {
+                    "unit": "USD",
+                    "value": 496
+                  },
+                  "taxes": {
+                    "unit": "USD",
+                    "value": 143
+                  },
+                  "totalPrice": {
+                    "unit": "USD",
+                    "value": 639
+                  },
+                  "refundable": true
+                }
+              }
+            ]
+          ]
+        },
+        "aircraft": {
+          "carrier": {
+            "code": "QR",
+            "fullname": "Qatar Airways (Q.C.S.C)",
+            "shortname": "Qatar Airways",
+            "image_path": "https://goprivate.wspan.com/sharedservices/images/airlineimages/logoAirQR.gif"
+          },
+          "equipment": {
+            "code": "788",
+            "fullname": "Boeing 787-8 Dreamliner",
+            "shortname": "Boeing 787-8"
+          },
+          "image_path": "https://goprivate.wspan.com/sharedservices/images/airlineimages/logoAirQR.gif"
+        },
+        "totalDuration": {
+          "day": "0",
+          "hour": "07",
+          "minute": "40",
+          "second": "0"
+        }
+      },
+      "price": {
+        "totalprice_unit": "USD",
+        "totalprice_value": 639
+      }
+    }
+  },
+  "carrier_00d70091": {
+    "fare_0b8e0215": {
+      "0": {
+        "origin": {
+          "airport": {
+            "code": "LHE",
+            "fullname": "Lahore Arpt",
+            "countryCode": "PK",
+            "stateCode": ""
+          },
+          "departure": {
+            "date": {
+              "year": "2023",
+              "month": "02",
+              "day": "28"
+            },
+            "time": {
+              "hour": "11",
+              "minute": "00",
+              "second": "00"
+            },
+            "timezone_stamp": "2023-02-28T11:00:00.000+05:00",
+            "timezone_name": ""
+          }
+        },
+        "destination": {
+          "airport": {
+            "code": "DXB",
+            "fullname": "Dubai Intl Arpt",
+            "countryCode": "AE",
+            "stateCode": ""
+          },
+          "arrival": {
+            "date": {
+              "year": "2023",
+              "month": "02",
+              "day": "28"
+            },
+            "time": {
+              "hour": "23",
+              "minute": "59",
+              "second": "00"
+            },
+            "timezone_stamp": "2023-02-28T23:59:00.000+04:00",
+            "timezone_name": ""
+          }
+        },
+        "flightItinerary": {
+          "totalOptions": 1,
+          "totalStops": 1,
+          "segments": [
+            [
+              {
+                "key": "EsNLbZTqWDKAsP6QEAAAAA==",
+                "flightNumber": "303",
+                "group": 0,
+                "journeyTime": "1 Hours 45 Minutes",
+                "origin": {
+                  "code": "LHE",
+                  "fullname": "Lahore Arpt",
+                  "countryCode": "PK",
+                  "stateCode": ""
+                },
+                "destination": {
+                  "code": "KHI",
+                  "fullname": "Quaid E Azam International",
+                  "countryCode": "PK",
+                  "stateCode": ""
+                },
+                "departureTime": {
+                  "date": {
+                    "year": "2023",
+                    "month": "02",
+                    "day": "28"
+                  },
+                  "time": {
+                    "hour": "11",
+                    "minute": "00",
+                    "second": "00"
+                  },
+                  "timezone_stamp": "2023-02-28T11:00:00.000+05:00",
+                  "timezone_name": ""
+                },
+                "arrivalTime": {
+                  "date": {
+                    "year": "2023",
+                    "month": "02",
+                    "day": "28"
+                  },
+                  "time": {
+                    "hour": "12",
+                    "minute": "45",
+                    "second": "00"
+                  },
+                  "timezone_stamp": "2023-02-28T12:45:00.000+05:00",
+                  "timezone_name": ""
+                },
+                "aircraft": {
+                  "carrier": {
+                    "code": "PK",
+                    "fullname": "Pakistan International Airlines",
+                    "shortname": "Pakistan Air",
+                    "image_path": "https://goprivate.wspan.com/sharedservices/images/airlineimages/logoAirPK.gif"
+                  },
+                  "equipment": {
+                    "code": "320",
+                    "fullname": "Airbus Industrie A320-100/200",
+                    "shortname": "Airbus A320"
+                  },
+                  "image_path": "https://goprivate.wspan.com/sharedservices/images/airlineimages/logoAirPK.gif"
+                },
+                "totalDuration": {
+                  "day": "0",
+                  "hour": "01",
+                  "minute": "45",
+                  "second": "0"
+                },
+                "bookingInformation": {
+                  "BookingCode": "T",
+                  "BookingCount": "9",
+                  "CabinClass": "Economy"
+                },
+                "flightDetail": {
+                  "Key": "EsNLbZTqWDKAtP6QEAAAAA==",
+                  "Equipment": "320",
+                  "AutomatedCheckin": false,
+                  "Origin": "LHE",
+                  "Destination": "KHI",
+                  "DepartureTime": "2023-02-28T11:00:00.000+05:00",
+                  "ArrivalTime": "2023-02-28T12:45:00.000+05:00",
+                  "FlightTime": 105,
+                  "TravelTime": 839
+                },
+                "fareInformation": {
+                  "BaggageAllowance": {
+                    "MaxWeight": {
+                      "Value": 25,
+                      "Unit": "Kilograms"
+                    }
+                  }
+                },
+                "fareDetails": {
+                  "basePrice": {
+                    "unit": "USD",
+                    "value": 278
+                  },
+                  "taxes": {
+                    "unit": "USD",
+                    "value": 44
+                  },
+                  "totalPrice": {
+                    "unit": "USD",
+                    "value": 322
+                  },
+                  "refundable": null
+                }
+              },
+              {
+                "key": "EsNLbZTqWDKAuP6QEAAAAA==",
+                "flightNumber": "603",
+                "group": 0,
+                "journeyTime": "2 Hours 29 Minutes",
+                "origin": {
+                  "code": "KHI",
+                  "fullname": "Quaid E Azam International",
+                  "countryCode": "PK",
+                  "stateCode": ""
+                },
+                "destination": {
+                  "code": "DXB",
+                  "fullname": "Dubai Intl Arpt",
+                  "countryCode": "AE",
+                  "stateCode": ""
+                },
+                "departureTime": {
+                  "date": {
+                    "year": "2023",
+                    "month": "02",
+                    "day": "28"
+                  },
+                  "time": {
+                    "hour": "22",
+                    "minute": "30",
+                    "second": "00"
+                  },
+                  "timezone_stamp": "2023-02-28T22:30:00.000+05:00",
+                  "timezone_name": ""
+                },
+                "arrivalTime": {
+                  "date": {
+                    "year": "2023",
+                    "month": "02",
+                    "day": "28"
+                  },
+                  "time": {
+                    "hour": "23",
+                    "minute": "59",
+                    "second": "00"
+                  },
+                  "timezone_stamp": "2023-02-28T23:59:00.000+04:00",
+                  "timezone_name": ""
+                },
+                "aircraft": {
+                  "carrier": {
+                    "code": "EK",
+                    "fullname": "Emirates",
+                    "shortname": "Emirates",
+                    "image_path": "https://goprivate.wspan.com/sharedservices/images/airlineimages/logoAirEK.gif"
+                  },
+                  "equipment": {
+                    "code": "77W",
+                    "fullname": "Boeing 777-300ER",
+                    "shortname": "Boeing 777-300"
+                  },
+                  "image_path": "https://goprivate.wspan.com/sharedservices/images/airlineimages/logoAirEK.gif"
+                },
+                "totalDuration": {
+                  "day": "0",
+                  "hour": "02",
+                  "minute": "29",
+                  "second": "0"
+                },
+                "bookingInformation": {
+                  "BookingCode": "T",
+                  "BookingCount": "9",
+                  "CabinClass": "Economy"
+                },
+                "flightDetail": {
+                  "Key": "EsNLbZTqWDKAvP6QEAAAAA==",
+                  "Equipment": "77W",
+                  "DestinationTerminal": "3",
+                  "AutomatedCheckin": false,
+                  "Origin": "KHI",
+                  "Destination": "DXB",
+                  "DepartureTime": "2023-02-28T22:30:00.000+05:00",
+                  "ArrivalTime": "2023-02-28T23:59:00.000+04:00",
+                  "FlightTime": 149,
+                  "TravelTime": 839
+                },
+                "fareInformation": {
+                  "BaggageAllowance": {
+                    "MaxWeight": {
+                      "Value": 25,
+                      "Unit": "Kilograms"
+                    }
+                  }
+                },
+                "fareDetails": {
+                  "basePrice": {
+                    "unit": "USD",
+                    "value": 278
+                  },
+                  "taxes": {
+                    "unit": "USD",
+                    "value": 44
+                  },
+                  "totalPrice": {
+                    "unit": "USD",
+                    "value": 322
+                  },
+                  "refundable": null
+                }
+              }
+            ]
+          ]
+        },
+        "aircraft": {
+          "carrier": {
+            "code": "PK",
+            "fullname": "Pakistan International Airlines",
+            "shortname": "Pakistan Air",
+            "image_path": "https://goprivate.wspan.com/sharedservices/images/airlineimages/logoAirPK.gif"
+          },
+          "equipment": {
+            "code": "320",
+            "fullname": "Airbus Industrie A320-100/200",
+            "shortname": "Airbus A320"
+          },
+          "image_path": "https://goprivate.wspan.com/sharedservices/images/airlineimages/logoAirPK.gif"
+        },
+        "totalDuration": {
+          "day": "0",
+          "hour": "13",
+          "minute": "59",
+          "second": "0"
+        }
+      },
+      "price": {
+        "totalprice_unit": "USD",
+        "totalprice_value": 322
+      }
+    },
+    "fare_0b9d0217": {
+      "0": {
+        "origin": {
+          "airport": {
+            "code": "LHE",
+            "fullname": "Lahore Arpt",
+            "countryCode": "PK",
+            "stateCode": ""
+          },
+          "departure": {
+            "date": {
+              "year": "2023",
+              "month": "02",
+              "day": "28"
+            },
+            "time": {
+              "hour": "03",
+              "minute": "20",
+              "second": "00"
+            },
+            "timezone_stamp": "2023-02-28T03:20:00.000+05:00",
+            "timezone_name": ""
+          }
+        },
+        "destination": {
+          "airport": {
+            "code": "DXB",
+            "fullname": "Dubai Intl Arpt",
+            "countryCode": "AE",
+            "stateCode": ""
+          },
+          "arrival": {
+            "date": {
+              "year": "2023",
+              "month": "02",
+              "day": "28"
+            },
+            "time": {
+              "hour": "05",
+              "minute": "50",
+              "second": "00"
+            },
+            "timezone_stamp": "2023-02-28T05:50:00.000+04:00",
+            "timezone_name": ""
+          }
+        },
+        "flightItinerary": {
+          "totalOptions": 1,
+          "totalStops": 0,
+          "segments": [
+            [
+              {
+                "key": "EsNLbZTqWDKACQ6QEAAAAA==",
+                "flightNumber": "623",
+                "group": 0,
+                "journeyTime": "3 Hours 30 Minutes",
+                "origin": {
+                  "code": "LHE",
+                  "fullname": "Lahore Arpt",
+                  "countryCode": "PK",
+                  "stateCode": ""
+                },
+                "destination": {
+                  "code": "DXB",
+                  "fullname": "Dubai Intl Arpt",
+                  "countryCode": "AE",
+                  "stateCode": ""
+                },
+                "departureTime": {
+                  "date": {
+                    "year": "2023",
+                    "month": "02",
+                    "day": "28"
+                  },
+                  "time": {
+                    "hour": "03",
+                    "minute": "20",
+                    "second": "00"
+                  },
+                  "timezone_stamp": "2023-02-28T03:20:00.000+05:00",
+                  "timezone_name": ""
+                },
+                "arrivalTime": {
+                  "date": {
+                    "year": "2023",
+                    "month": "02",
+                    "day": "28"
+                  },
+                  "time": {
+                    "hour": "05",
+                    "minute": "50",
+                    "second": "00"
+                  },
+                  "timezone_stamp": "2023-02-28T05:50:00.000+04:00",
+                  "timezone_name": ""
+                },
+                "aircraft": {
+                  "carrier": {
+                    "code": "EK",
+                    "fullname": "Emirates",
+                    "shortname": "Emirates",
+                    "image_path": "https://goprivate.wspan.com/sharedservices/images/airlineimages/logoAirEK.gif"
+                  },
+                  "equipment": {
+                    "code": "77W",
+                    "fullname": "Boeing 777-300ER",
+                    "shortname": "Boeing 777-300"
+                  },
+                  "image_path": "https://goprivate.wspan.com/sharedservices/images/airlineimages/logoAirEK.gif"
+                },
+                "totalDuration": {
+                  "day": "0",
+                  "hour": "03",
+                  "minute": "30",
+                  "second": "0"
+                },
+                "bookingInformation": {
+                  "BookingCode": "K",
+                  "BookingCount": "9",
+                  "CabinClass": "Economy"
+                },
+                "flightDetail": {
+                  "Key": "EsNLbZTqWDKADQ6QEAAAAA==",
+                  "Equipment": "77W",
+                  "DestinationTerminal": "3",
+                  "AutomatedCheckin": false,
+                  "Origin": "LHE",
+                  "Destination": "DXB",
+                  "DepartureTime": "2023-02-28T03:20:00.000+05:00",
+                  "ArrivalTime": "2023-02-28T05:50:00.000+04:00",
+                  "FlightTime": 210,
+                  "TravelTime": 210
+                },
+                "fareInformation": {
+                  "BaggageAllowance": {
+                    "MaxWeight": {
+                      "Value": 30,
+                      "Unit": "Kilograms"
+                    }
+                  }
+                },
+                "fareDetails": {
+                  "basePrice": {
+                    "unit": "USD",
+                    "value": 326
+                  },
+                  "taxes": {
+                    "unit": "USD",
+                    "value": 44
+                  },
+                  "totalPrice": {
+                    "unit": "USD",
+                    "value": 370
+                  },
+                  "refundable": true
+                }
+              }
+            ]
+          ]
+        },
+        "aircraft": {
+          "carrier": {
+            "code": "EK",
+            "fullname": "Emirates",
+            "shortname": "Emirates",
+            "image_path": "https://goprivate.wspan.com/sharedservices/images/airlineimages/logoAirEK.gif"
+          },
+          "equipment": {
+            "code": "77W",
+            "fullname": "Boeing 777-300ER",
+            "shortname": "Boeing 777-300"
+          },
+          "image_path": "https://goprivate.wspan.com/sharedservices/images/airlineimages/logoAirEK.gif"
+        },
+        "totalDuration": {
+          "day": "0",
+          "hour": "03",
+          "minute": "30",
+          "second": "0"
+        }
+      },
+      "price": {
+        "totalprice_unit": "USD",
+        "totalprice_value": 370
+      }
+    }
+  },
+  "carrier_010900b1": {
+    "fare_0ba0021a": {
+      "0": {
+        "origin": {
+          "airport": {
+            "code": "LHE",
+            "fullname": "Lahore Arpt",
+            "countryCode": "PK",
+            "stateCode": ""
+          },
+          "departure": {
+            "date": {
+              "year": "2023",
+              "month": "02",
+              "day": "28"
+            },
+            "time": {
+              "hour": "15",
+              "minute": "00",
+              "second": "00"
+            },
+            "timezone_stamp": "2023-02-28T15:00:00.000+05:00",
+            "timezone_name": ""
+          }
+        },
+        "destination": {
+          "airport": {
+            "code": "DXB",
+            "fullname": "Dubai Intl Arpt",
+            "countryCode": "AE",
+            "stateCode": ""
+          },
+          "arrival": {
+            "date": {
+              "year": "2023",
+              "month": "03",
+              "day": "01"
+            },
+            "time": {
+              "hour": "03",
+              "minute": "10",
+              "second": "00"
+            },
+            "timezone_stamp": "2023-03-01T03:10:00.000+04:00",
+            "timezone_name": ""
+          }
+        },
+        "flightItinerary": {
+          "totalOptions": 2,
+          "totalStops": 1,
+          "segments": [
+            [
+              {
+                "key": "EsNLbZTqWDKAwP6QEAAAAA==",
+                "flightNumber": "344",
+                "group": 0,
+                "journeyTime": "3 Hours 15 Minutes",
+                "origin": {
+                  "code": "LHE",
+                  "fullname": "Lahore Arpt",
+                  "countryCode": "PK",
+                  "stateCode": ""
+                },
+                "destination": {
+                  "code": "MCT",
+                  "fullname": "Muscat Internatonal Arpt",
+                  "countryCode": "OM",
+                  "stateCode": ""
+                },
+                "departureTime": {
+                  "date": {
+                    "year": "2023",
+                    "month": "02",
+                    "day": "28"
+                  },
+                  "time": {
+                    "hour": "15",
+                    "minute": "00",
+                    "second": "00"
+                  },
+                  "timezone_stamp": "2023-02-28T15:00:00.000+05:00",
+                  "timezone_name": ""
+                },
+                "arrivalTime": {
+                  "date": {
+                    "year": "2023",
+                    "month": "02",
+                    "day": "28"
+                  },
+                  "time": {
+                    "hour": "17",
+                    "minute": "15",
+                    "second": "00"
+                  },
+                  "timezone_stamp": "2023-02-28T17:15:00.000+04:00",
+                  "timezone_name": ""
+                },
+                "aircraft": {
+                  "carrier": {
+                    "code": "WY",
+                    "fullname": "Oman Air",
+                    "shortname": "Oman Air",
+                    "image_path": "https://goprivate.wspan.com/sharedservices/images/airlineimages/logoAirWY.gif"
+                  },
+                  "equipment": {
+                    "code": "738",
+                    "fullname": "Boeing 737-800",
+                    "shortname": "Boeing 737-800"
+                  },
+                  "image_path": "https://goprivate.wspan.com/sharedservices/images/airlineimages/logoAirWY.gif"
+                },
+                "totalDuration": {
+                  "day": "0",
+                  "hour": "03",
+                  "minute": "15",
+                  "second": "0"
+                },
+                "bookingInformation": {
+                  "BookingCode": "L",
+                  "BookingCount": "7",
+                  "CabinClass": "Economy"
+                },
+                "flightDetail": {
+                  "Key": "EsNLbZTqWDKAxP6QEAAAAA==",
+                  "Equipment": "738",
+                  "OriginTerminal": "M",
+                  "AutomatedCheckin": false,
+                  "Origin": "LHE",
+                  "Destination": "MCT",
+                  "DepartureTime": "2023-02-28T15:00:00.000+05:00",
+                  "ArrivalTime": "2023-02-28T17:15:00.000+04:00",
+                  "FlightTime": 195,
+                  "TravelTime": 455
+                },
+                "fareInformation": {
+                  "BaggageAllowance": {
+                    "MaxWeight": {
+                      "Value": 30,
+                      "Unit": "Kilograms"
+                    }
+                  }
+                },
+                "fareDetails": {
+                  "basePrice": {
+                    "unit": "USD",
+                    "value": 202
+                  },
+                  "taxes": {
+                    "unit": "USD",
+                    "value": 141
+                  },
+                  "totalPrice": {
+                    "unit": "USD",
+                    "value": 343
+                  },
+                  "refundable": true
+                }
+              },
+              {
+                "key": "EsNLbZTqWDKAyP6QEAAAAA==",
+                "flightNumber": "611",
+                "group": 0,
+                "journeyTime": "1 Hours 15 Minutes",
+                "origin": {
+                  "code": "MCT",
+                  "fullname": "Muscat Internatonal Arpt",
+                  "countryCode": "OM",
+                  "stateCode": ""
+                },
+                "destination": {
+                  "code": "DXB",
+                  "fullname": "Dubai Intl Arpt",
+                  "countryCode": "AE",
+                  "stateCode": ""
+                },
+                "departureTime": {
+                  "date": {
+                    "year": "2023",
+                    "month": "02",
+                    "day": "28"
+                  },
+                  "time": {
+                    "hour": "20",
+                    "minute": "20",
+                    "second": "00"
+                  },
+                  "timezone_stamp": "2023-02-28T20:20:00.000+04:00",
+                  "timezone_name": ""
+                },
+                "arrivalTime": {
+                  "date": {
+                    "year": "2023",
+                    "month": "02",
+                    "day": "28"
+                  },
+                  "time": {
+                    "hour": "21",
+                    "minute": "35",
+                    "second": "00"
+                  },
+                  "timezone_stamp": "2023-02-28T21:35:00.000+04:00",
+                  "timezone_name": ""
+                },
+                "aircraft": {
+                  "carrier": {
+                    "code": "WY",
+                    "fullname": "Oman Air",
+                    "shortname": "Oman Air",
+                    "image_path": "https://goprivate.wspan.com/sharedservices/images/airlineimages/logoAirWY.gif"
+                  },
+                  "equipment": {
+                    "code": "7M8",
+                    "fullname": "Boeing 737MAX 8 Passenger",
+                    "shortname": "Boeing 737Max"
+                  },
+                  "image_path": "https://goprivate.wspan.com/sharedservices/images/airlineimages/logoAirWY.gif"
+                },
+                "totalDuration": {
+                  "day": "0",
+                  "hour": "01",
+                  "minute": "15",
+                  "second": "0"
+                },
+                "bookingInformation": {
+                  "BookingCode": "L",
+                  "BookingCount": "7",
+                  "CabinClass": "Economy"
+                },
+                "flightDetail": {
+                  "Key": "EsNLbZTqWDKAzP6QEAAAAA==",
+                  "Equipment": "7M8",
+                  "DestinationTerminal": "1",
+                  "AutomatedCheckin": false,
+                  "Origin": "MCT",
+                  "Destination": "DXB",
+                  "DepartureTime": "2023-02-28T20:20:00.000+04:00",
+                  "ArrivalTime": "2023-02-28T21:35:00.000+04:00",
+                  "FlightTime": 75,
+                  "TravelTime": 455
+                },
+                "fareInformation": {
+                  "BaggageAllowance": {
+                    "MaxWeight": {
+                      "Value": 30,
+                      "Unit": "Kilograms"
+                    }
+                  }
+                },
+                "fareDetails": {
+                  "basePrice": {
+                    "unit": "USD",
+                    "value": 202
+                  },
+                  "taxes": {
+                    "unit": "USD",
+                    "value": 141
+                  },
+                  "totalPrice": {
+                    "unit": "USD",
+                    "value": 343
+                  },
+                  "refundable": true
+                }
+              }
+            ],
+            [
+              {
+                "key": "EsNLbZTqWDKAwP6QEAAAAA==",
+                "flightNumber": "344",
+                "group": 0,
+                "journeyTime": "3 Hours 15 Minutes",
+                "origin": {
+                  "code": "LHE",
+                  "fullname": "Lahore Arpt",
+                  "countryCode": "PK",
+                  "stateCode": ""
+                },
+                "destination": {
+                  "code": "MCT",
+                  "fullname": "Muscat Internatonal Arpt",
+                  "countryCode": "OM",
+                  "stateCode": ""
+                },
+                "departureTime": {
+                  "date": {
+                    "year": "2023",
+                    "month": "02",
+                    "day": "28"
+                  },
+                  "time": {
+                    "hour": "15",
+                    "minute": "00",
+                    "second": "00"
+                  },
+                  "timezone_stamp": "2023-02-28T15:00:00.000+05:00",
+                  "timezone_name": ""
+                },
+                "arrivalTime": {
+                  "date": {
+                    "year": "2023",
+                    "month": "02",
+                    "day": "28"
+                  },
+                  "time": {
+                    "hour": "17",
+                    "minute": "15",
+                    "second": "00"
+                  },
+                  "timezone_stamp": "2023-02-28T17:15:00.000+04:00",
+                  "timezone_name": ""
+                },
+                "aircraft": {
+                  "carrier": {
+                    "code": "WY",
+                    "fullname": "Oman Air",
+                    "shortname": "Oman Air",
+                    "image_path": "https://goprivate.wspan.com/sharedservices/images/airlineimages/logoAirWY.gif"
+                  },
+                  "equipment": {
+                    "code": "738",
+                    "fullname": "Boeing 737-800",
+                    "shortname": "Boeing 737-800"
+                  },
+                  "image_path": "https://goprivate.wspan.com/sharedservices/images/airlineimages/logoAirWY.gif"
+                },
+                "totalDuration": {
+                  "day": "0",
+                  "hour": "03",
+                  "minute": "15",
+                  "second": "0"
+                },
+                "bookingInformation": {
+                  "BookingCode": "L",
+                  "BookingCount": "7",
+                  "CabinClass": "Economy"
+                },
+                "flightDetail": {
+                  "Key": "EsNLbZTqWDKAxP6QEAAAAA==",
+                  "Equipment": "738",
+                  "OriginTerminal": "M",
+                  "AutomatedCheckin": false,
+                  "Origin": "LHE",
+                  "Destination": "MCT",
+                  "DepartureTime": "2023-02-28T15:00:00.000+05:00",
+                  "ArrivalTime": "2023-02-28T17:15:00.000+04:00",
+                  "FlightTime": 195,
+                  "TravelTime": 455
+                },
+                "fareInformation": {
+                  "BaggageAllowance": {
+                    "MaxWeight": {
+                      "Value": 30,
+                      "Unit": "Kilograms"
+                    }
+                  }
+                },
+                "fareDetails": {
+                  "basePrice": {
+                    "unit": "USD",
+                    "value": 202
+                  },
+                  "taxes": {
+                    "unit": "USD",
+                    "value": 141
+                  },
+                  "totalPrice": {
+                    "unit": "USD",
+                    "value": 343
+                  },
+                  "refundable": true
+                }
+              },
+              {
+                "key": "EsNLbZTqWDKA0P6QEAAAAA==",
+                "flightNumber": "601",
+                "group": 0,
+                "journeyTime": "1 Hours 15 Minutes",
+                "origin": {
+                  "code": "MCT",
+                  "fullname": "Muscat Internatonal Arpt",
+                  "countryCode": "OM",
+                  "stateCode": ""
+                },
+                "destination": {
+                  "code": "DXB",
+                  "fullname": "Dubai Intl Arpt",
+                  "countryCode": "AE",
+                  "stateCode": ""
+                },
+                "departureTime": {
+                  "date": {
+                    "year": "2023",
+                    "month": "03",
+                    "day": "01"
+                  },
+                  "time": {
+                    "hour": "01",
+                    "minute": "55",
+                    "second": "00"
+                  },
+                  "timezone_stamp": "2023-03-01T01:55:00.000+04:00",
+                  "timezone_name": ""
+                },
+                "arrivalTime": {
+                  "date": {
+                    "year": "2023",
+                    "month": "03",
+                    "day": "01"
+                  },
+                  "time": {
+                    "hour": "03",
+                    "minute": "10",
+                    "second": "00"
+                  },
+                  "timezone_stamp": "2023-03-01T03:10:00.000+04:00",
+                  "timezone_name": ""
+                },
+                "aircraft": {
+                  "carrier": {
+                    "code": "WY",
+                    "fullname": "Oman Air",
+                    "shortname": "Oman Air",
+                    "image_path": "https://goprivate.wspan.com/sharedservices/images/airlineimages/logoAirWY.gif"
+                  },
+                  "equipment": {
+                    "code": "7M8",
+                    "fullname": "Boeing 737MAX 8 Passenger",
+                    "shortname": "Boeing 737Max"
+                  },
+                  "image_path": "https://goprivate.wspan.com/sharedservices/images/airlineimages/logoAirWY.gif"
+                },
+                "totalDuration": {
+                  "day": "0",
+                  "hour": "01",
+                  "minute": "15",
+                  "second": "0"
+                },
+                "bookingInformation": {
+                  "BookingCode": "L",
+                  "BookingCount": "7",
+                  "CabinClass": "Economy"
+                },
+                "flightDetail": {
+                  "Key": "EsNLbZTqWDKA1P6QEAAAAA==",
+                  "Equipment": "7M8",
+                  "DestinationTerminal": "1",
+                  "AutomatedCheckin": false,
+                  "Origin": "MCT",
+                  "Destination": "DXB",
+                  "DepartureTime": "2023-03-01T01:55:00.000+04:00",
+                  "ArrivalTime": "2023-03-01T03:10:00.000+04:00",
+                  "FlightTime": 75,
+                  "TravelTime": 790
+                },
+                "fareInformation": {
+                  "BaggageAllowance": {
+                    "MaxWeight": {
+                      "Value": 30,
+                      "Unit": "Kilograms"
+                    }
+                  }
+                },
+                "fareDetails": {
+                  "basePrice": {
+                    "unit": "USD",
+                    "value": 202
+                  },
+                  "taxes": {
+                    "unit": "USD",
+                    "value": 141
+                  },
+                  "totalPrice": {
+                    "unit": "USD",
+                    "value": 343
+                  },
+                  "refundable": true
+                }
+              }
+            ]
+          ]
+        },
+        "aircraft": {
+          "carrier": {
+            "code": "WY",
+            "fullname": "Oman Air",
+            "shortname": "Oman Air",
+            "image_path": "https://goprivate.wspan.com/sharedservices/images/airlineimages/logoAirWY.gif"
+          },
+          "equipment": {
+            "code": "738",
+            "fullname": "Boeing 737-800",
+            "shortname": "Boeing 737-800"
+          },
+          "image_path": "https://goprivate.wspan.com/sharedservices/images/airlineimages/logoAirWY.gif"
+        },
+        "totalDuration": {
+          "day": "0",
+          "hour": "13",
+          "minute": "10",
+          "second": "0"
+        }
+      },
+      "price": {
+        "totalprice_unit": "USD",
+        "totalprice_value": 343
+      }
+    },
+    "fare_0e010252": {
+      "0": {
+        "origin": {
+          "airport": {
+            "code": "LHE",
+            "fullname": "Lahore Arpt",
+            "countryCode": "PK",
+            "stateCode": ""
+          },
+          "departure": {
+            "date": {
+              "year": "2023",
+              "month": "02",
+              "day": "28"
+            },
+            "time": {
+              "hour": "03",
+              "minute": "00",
+              "second": "00"
+            },
+            "timezone_stamp": "2023-02-28T03:00:00.000+05:00",
+            "timezone_name": ""
+          }
+        },
+        "destination": {
+          "airport": {
+            "code": "DXB",
+            "fullname": "Dubai Intl Arpt",
+            "countryCode": "AE",
+            "stateCode": ""
+          },
+          "arrival": {
+            "date": {
+              "year": "2023",
+              "month": "02",
+              "day": "28"
+            },
+            "time": {
+              "hour": "15",
+              "minute": "35",
+              "second": "00"
+            },
+            "timezone_stamp": "2023-02-28T15:35:00.000+04:00",
+            "timezone_name": ""
+          }
+        },
+        "flightItinerary": {
+          "totalOptions": 1,
+          "totalStops": 2,
+          "segments": [
+            [
+              {
+                "key": "EsNLbZTqWDKAZQ6QEAAAAA==",
+                "flightNumber": "6030",
+                "group": 0,
+                "journeyTime": "4 Hours 5 Minutes",
+                "origin": {
+                  "code": "LHE",
+                  "fullname": "Lahore Arpt",
+                  "countryCode": "PK",
+                  "stateCode": ""
+                },
+                "destination": {
+                  "code": "DOH",
+                  "fullname": "Doha International Arpt",
+                  "countryCode": "QA",
+                  "stateCode": ""
+                },
+                "departureTime": {
+                  "date": {
+                    "year": "2023",
+                    "month": "02",
+                    "day": "28"
+                  },
+                  "time": {
+                    "hour": "03",
+                    "minute": "00",
+                    "second": "00"
+                  },
+                  "timezone_stamp": "2023-02-28T03:00:00.000+05:00",
+                  "timezone_name": ""
+                },
+                "arrivalTime": {
+                  "date": {
+                    "year": "2023",
+                    "month": "02",
+                    "day": "28"
+                  },
+                  "time": {
+                    "hour": "05",
+                    "minute": "05",
+                    "second": "00"
+                  },
+                  "timezone_stamp": "2023-02-28T05:05:00.000+03:00",
+                  "timezone_name": ""
+                },
+                "aircraft": {
+                  "carrier": {
+                    "code": "WY",
+                    "fullname": "Oman Air",
+                    "shortname": "Oman Air",
+                    "image_path": "https://goprivate.wspan.com/sharedservices/images/airlineimages/logoAirWY.gif"
+                  },
+                  "equipment": {
+                    "code": "351",
+                    "fullname": null,
+                    "shortname": null
+                  },
+                  "image_path": "https://goprivate.wspan.com/sharedservices/images/airlineimages/logoAirWY.gif"
+                },
+                "totalDuration": {
+                  "day": "0",
+                  "hour": "04",
+                  "minute": "5",
+                  "second": "0"
+                },
+                "bookingInformation": {
+                  "BookingCode": "Y",
+                  "BookingCount": "4",
+                  "CabinClass": "Economy"
+                },
+                "flightDetail": {
+                  "Key": "EsNLbZTqWDKAaQ6QEAAAAA==",
+                  "Equipment": "351",
+                  "AutomatedCheckin": false,
+                  "Origin": "LHE",
+                  "Destination": "DOH",
+                  "DepartureTime": "2023-02-28T03:00:00.000+05:00",
+                  "ArrivalTime": "2023-02-28T05:05:00.000+03:00",
+                  "FlightTime": 245,
+                  "TravelTime": 815
+                },
+                "fareInformation": {
+                  "BaggageAllowance": {
+                    "MaxWeight": {
+                      "Value": 30,
+                      "Unit": "Kilograms"
+                    }
+                  }
+                },
+                "fareDetails": {
+                  "basePrice": {
+                    "unit": "USD",
+                    "value": 1299
+                  },
+                  "taxes": {
+                    "unit": "USD",
+                    "value": 337
+                  },
+                  "totalPrice": {
+                    "unit": "USD",
+                    "value": 1636
+                  },
+                  "refundable": true
+                }
+              },
+              {
+                "key": "EsNLbZTqWDKAIQ6QEAAAAA==",
+                "flightNumber": "670",
+                "group": 0,
+                "journeyTime": "1 Hours 30 Minutes",
+                "origin": {
+                  "code": "DOH",
+                  "fullname": "Doha International Arpt",
+                  "countryCode": "QA",
+                  "stateCode": ""
+                },
+                "destination": {
+                  "code": "MCT",
+                  "fullname": "Muscat Internatonal Arpt",
+                  "countryCode": "OM",
+                  "stateCode": ""
+                },
+                "departureTime": {
+                  "date": {
+                    "year": "2023",
+                    "month": "02",
+                    "day": "28"
+                  },
+                  "time": {
+                    "hour": "07",
+                    "minute": "50",
+                    "second": "00"
+                  },
+                  "timezone_stamp": "2023-02-28T07:50:00.000+03:00",
+                  "timezone_name": ""
+                },
+                "arrivalTime": {
+                  "date": {
+                    "year": "2023",
+                    "month": "02",
+                    "day": "28"
+                  },
+                  "time": {
+                    "hour": "10",
+                    "minute": "20",
+                    "second": "00"
+                  },
+                  "timezone_stamp": "2023-02-28T10:20:00.000+04:00",
+                  "timezone_name": ""
+                },
+                "aircraft": {
+                  "carrier": {
+                    "code": "WY",
+                    "fullname": "Oman Air",
+                    "shortname": "Oman Air",
+                    "image_path": "https://goprivate.wspan.com/sharedservices/images/airlineimages/logoAirWY.gif"
+                  },
+                  "equipment": {
+                    "code": "7M8",
+                    "fullname": "Boeing 737MAX 8 Passenger",
+                    "shortname": "Boeing 737Max"
+                  },
+                  "image_path": "https://goprivate.wspan.com/sharedservices/images/airlineimages/logoAirWY.gif"
+                },
+                "totalDuration": {
+                  "day": "0",
+                  "hour": "01",
+                  "minute": "30",
+                  "second": "0"
+                },
+                "bookingInformation": {
+                  "BookingCode": "Y",
+                  "BookingCount": "4",
+                  "CabinClass": "Economy"
+                },
+                "flightDetail": {
+                  "Key": "EsNLbZTqWDKAHQ6QEAAAAA==",
+                  "Equipment": "7M8",
+                  "AutomatedCheckin": false,
+                  "Origin": "DOH",
+                  "Destination": "MCT",
+                  "DepartureTime": "2023-02-28T07:50:00.000+03:00",
+                  "ArrivalTime": "2023-02-28T10:20:00.000+04:00",
+                  "FlightTime": 90,
+                  "TravelTime": 815
+                },
+                "fareInformation": {
+                  "BaggageAllowance": {
+                    "MaxWeight": {
+                      "Value": 30,
+                      "Unit": "Kilograms"
+                    }
+                  }
+                },
+                "fareDetails": {
+                  "basePrice": {
+                    "unit": "USD",
+                    "value": 1299
+                  },
+                  "taxes": {
+                    "unit": "USD",
+                    "value": 337
+                  },
+                  "totalPrice": {
+                    "unit": "USD",
+                    "value": 1636
+                  },
+                  "refundable": true
+                }
+              },
+              {
+                "key": "EsNLbZTqWDKAJQ6QEAAAAA==",
+                "flightNumber": "609",
+                "group": 0,
+                "journeyTime": "1 Hours 15 Minutes",
+                "origin": {
+                  "code": "MCT",
+                  "fullname": "Muscat Internatonal Arpt",
+                  "countryCode": "OM",
+                  "stateCode": ""
+                },
+                "destination": {
+                  "code": "DXB",
+                  "fullname": "Dubai Intl Arpt",
+                  "countryCode": "AE",
+                  "stateCode": ""
+                },
+                "departureTime": {
+                  "date": {
+                    "year": "2023",
+                    "month": "02",
+                    "day": "28"
+                  },
+                  "time": {
+                    "hour": "14",
+                    "minute": "20",
+                    "second": "00"
+                  },
+                  "timezone_stamp": "2023-02-28T14:20:00.000+04:00",
+                  "timezone_name": ""
+                },
+                "arrivalTime": {
+                  "date": {
+                    "year": "2023",
+                    "month": "02",
+                    "day": "28"
+                  },
+                  "time": {
+                    "hour": "15",
+                    "minute": "35",
+                    "second": "00"
+                  },
+                  "timezone_stamp": "2023-02-28T15:35:00.000+04:00",
+                  "timezone_name": ""
+                },
+                "aircraft": {
+                  "carrier": {
+                    "code": "WY",
+                    "fullname": "Oman Air",
+                    "shortname": "Oman Air",
+                    "image_path": "https://goprivate.wspan.com/sharedservices/images/airlineimages/logoAirWY.gif"
+                  },
+                  "equipment": {
+                    "code": "7M8",
+                    "fullname": "Boeing 737MAX 8 Passenger",
+                    "shortname": "Boeing 737Max"
+                  },
+                  "image_path": "https://goprivate.wspan.com/sharedservices/images/airlineimages/logoAirWY.gif"
+                },
+                "totalDuration": {
+                  "day": "0",
+                  "hour": "01",
+                  "minute": "15",
+                  "second": "0"
+                },
+                "bookingInformation": {
+                  "BookingCode": "Y",
+                  "BookingCount": "4",
+                  "CabinClass": "Economy"
+                },
+                "flightDetail": {
+                  "Key": "EsNLbZTqWDKAKQ6QEAAAAA==",
+                  "Equipment": "7M8",
+                  "DestinationTerminal": "1",
+                  "AutomatedCheckin": false,
+                  "Origin": "MCT",
+                  "Destination": "DXB",
+                  "DepartureTime": "2023-02-28T14:20:00.000+04:00",
+                  "ArrivalTime": "2023-02-28T15:35:00.000+04:00",
+                  "FlightTime": 75,
+                  "TravelTime": 815
+                },
+                "fareInformation": {
+                  "BaggageAllowance": {
+                    "MaxWeight": {
+                      "Value": 30,
+                      "Unit": "Kilograms"
+                    }
+                  }
+                },
+                "fareDetails": {
+                  "basePrice": {
+                    "unit": "USD",
+                    "value": 1299
+                  },
+                  "taxes": {
+                    "unit": "USD",
+                    "value": 337
+                  },
+                  "totalPrice": {
+                    "unit": "USD",
+                    "value": 1636
+                  },
+                  "refundable": true
+                }
+              }
+            ]
+          ]
+        },
+        "aircraft": {
+          "carrier": {
+            "code": "WY",
+            "fullname": "Oman Air",
+            "shortname": "Oman Air",
+            "image_path": "https://goprivate.wspan.com/sharedservices/images/airlineimages/logoAirWY.gif"
+          },
+          "equipment": {
+            "code": "351",
+            "fullname": null,
+            "shortname": null
+          },
+          "image_path": "https://goprivate.wspan.com/sharedservices/images/airlineimages/logoAirWY.gif"
+        },
+        "totalDuration": {
+          "day": "0",
+          "hour": "13",
+          "minute": "35",
+          "second": "0"
+        }
+      },
+      "price": {
+        "totalprice_unit": "USD",
+        "totalprice_value": 1636
+      }
+    }
+  },
+  "carrier_00fe00aa": {
+    "fare_0bbb0223": {
+      "0": {
+        "origin": {
+          "airport": {
+            "code": "LHE",
+            "fullname": "Lahore Arpt",
+            "countryCode": "PK",
+            "stateCode": ""
+          },
+          "departure": {
+            "date": {
+              "year": "2023",
+              "month": "02",
+              "day": "28"
+            },
+            "time": {
+              "hour": "20",
+              "minute": "20",
+              "second": "00"
+            },
+            "timezone_stamp": "2023-02-28T20:20:00.000+05:00",
+            "timezone_name": ""
+          }
+        },
+        "destination": {
+          "airport": {
+            "code": "DXB",
+            "fullname": "Dubai Intl Arpt",
+            "countryCode": "AE",
+            "stateCode": ""
+          },
+          "arrival": {
+            "date": {
+              "year": "2023",
+              "month": "03",
+              "day": "01"
+            },
+            "time": {
+              "hour": "09",
+              "minute": "25",
+              "second": "00"
+            },
+            "timezone_stamp": "2023-03-01T09:25:00.000+04:00",
+            "timezone_name": ""
+          }
+        },
+        "flightItinerary": {
+          "totalOptions": 1,
+          "totalStops": 1,
+          "segments": [
+            [
+              {
+                "key": "EsNLbZTqWDKA+P6QEAAAAA==",
+                "flightNumber": "739",
+                "group": 0,
+                "journeyTime": "4 Hours 50 Minutes",
+                "origin": {
+                  "code": "LHE",
+                  "fullname": "Lahore Arpt",
+                  "countryCode": "PK",
+                  "stateCode": ""
+                },
+                "destination": {
+                  "code": "RUH",
+                  "fullname": "Riyadh King Khaled Intl Arpt",
+                  "countryCode": "SA",
+                  "stateCode": ""
+                },
+                "departureTime": {
+                  "date": {
+                    "year": "2023",
+                    "month": "02",
+                    "day": "28"
+                  },
+                  "time": {
+                    "hour": "20",
+                    "minute": "20",
+                    "second": "00"
+                  },
+                  "timezone_stamp": "2023-02-28T20:20:00.000+05:00",
+                  "timezone_name": ""
+                },
+                "arrivalTime": {
+                  "date": {
+                    "year": "2023",
+                    "month": "02",
+                    "day": "28"
+                  },
+                  "time": {
+                    "hour": "23",
+                    "minute": "10",
+                    "second": "00"
+                  },
+                  "timezone_stamp": "2023-02-28T23:10:00.000+03:00",
+                  "timezone_name": ""
+                },
+                "aircraft": {
+                  "carrier": {
+                    "code": "SV",
+                    "fullname": "Saudi Arabian Airlines",
+                    "shortname": "Saudi Arabian",
+                    "image_path": "https://goprivate.wspan.com/sharedservices/images/airlineimages/logoAirSV.gif"
+                  },
+                  "equipment": {
+                    "code": "777",
+                    "fullname": "Boeing 777",
+                    "shortname": "Boeing 777"
+                  },
+                  "image_path": "https://goprivate.wspan.com/sharedservices/images/airlineimages/logoAirSV.gif"
+                },
+                "totalDuration": {
+                  "day": "0",
+                  "hour": "04",
+                  "minute": "50",
+                  "second": "0"
+                },
+                "bookingInformation": {
+                  "BookingCode": "T",
+                  "BookingCount": "7",
+                  "CabinClass": "Economy"
+                },
+                "flightDetail": {
+                  "Key": "EsNLbZTqWDKA/P6QEAAAAA==",
+                  "Equipment": "777",
+                  "OriginTerminal": "M",
+                  "DestinationTerminal": "4",
+                  "AutomatedCheckin": false,
+                  "Origin": "LHE",
+                  "Destination": "RUH",
+                  "DepartureTime": "2023-02-28T20:20:00.000+05:00",
+                  "ArrivalTime": "2023-02-28T23:10:00.000+03:00",
+                  "FlightTime": 290,
+                  "TravelTime": 845
+                },
+                "fareInformation": {
+                  "BaggageAllowance": {
+                    "NumberOfPieces": 1,
+                    "MaxWeight": {}
+                  }
+                },
+                "fareDetails": {
+                  "basePrice": {
+                    "unit": "USD",
+                    "value": 287
+                  },
+                  "taxes": {
+                    "unit": "USD",
+                    "value": 72
+                  },
+                  "totalPrice": {
+                    "unit": "USD",
+                    "value": 359
+                  },
+                  "refundable": true
+                }
+              },
+              {
+                "key": "EsNLbZTqWDKAAQ6QEAAAAA==",
+                "flightNumber": "562",
+                "group": 0,
+                "journeyTime": "1 Hours 55 Minutes",
+                "origin": {
+                  "code": "RUH",
+                  "fullname": "Riyadh King Khaled Intl Arpt",
+                  "countryCode": "SA",
+                  "stateCode": ""
+                },
+                "destination": {
+                  "code": "DXB",
+                  "fullname": "Dubai Intl Arpt",
+                  "countryCode": "AE",
+                  "stateCode": ""
+                },
+                "departureTime": {
+                  "date": {
+                    "year": "2023",
+                    "month": "03",
+                    "day": "01"
+                  },
+                  "time": {
+                    "hour": "06",
+                    "minute": "30",
+                    "second": "00"
+                  },
+                  "timezone_stamp": "2023-03-01T06:30:00.000+03:00",
+                  "timezone_name": ""
+                },
+                "arrivalTime": {
+                  "date": {
+                    "year": "2023",
+                    "month": "03",
+                    "day": "01"
+                  },
+                  "time": {
+                    "hour": "09",
+                    "minute": "25",
+                    "second": "00"
+                  },
+                  "timezone_stamp": "2023-03-01T09:25:00.000+04:00",
+                  "timezone_name": ""
+                },
+                "aircraft": {
+                  "carrier": {
+                    "code": "SV",
+                    "fullname": "Saudi Arabian Airlines",
+                    "shortname": "Saudi Arabian",
+                    "image_path": "https://goprivate.wspan.com/sharedservices/images/airlineimages/logoAirSV.gif"
+                  },
+                  "equipment": {
+                    "code": "320",
+                    "fullname": "Airbus Industrie A320-100/200",
+                    "shortname": "Airbus A320"
+                  },
+                  "image_path": "https://goprivate.wspan.com/sharedservices/images/airlineimages/logoAirSV.gif"
+                },
+                "totalDuration": {
+                  "day": "0",
+                  "hour": "01",
+                  "minute": "55",
+                  "second": "0"
+                },
+                "bookingInformation": {
+                  "BookingCode": "T",
+                  "BookingCount": "7",
+                  "CabinClass": "Economy"
+                },
+                "flightDetail": {
+                  "Key": "EsNLbZTqWDKABQ6QEAAAAA==",
+                  "Equipment": "320",
+                  "OriginTerminal": "4",
+                  "DestinationTerminal": "1",
+                  "AutomatedCheckin": false,
+                  "Origin": "RUH",
+                  "Destination": "DXB",
+                  "DepartureTime": "2023-03-01T06:30:00.000+03:00",
+                  "ArrivalTime": "2023-03-01T09:25:00.000+04:00",
+                  "FlightTime": 115,
+                  "TravelTime": 845
+                },
+                "fareInformation": {
+                  "BaggageAllowance": {
+                    "NumberOfPieces": 1,
+                    "MaxWeight": {}
+                  }
+                },
+                "fareDetails": {
+                  "basePrice": {
+                    "unit": "USD",
+                    "value": 287
+                  },
+                  "taxes": {
+                    "unit": "USD",
+                    "value": 72
+                  },
+                  "totalPrice": {
+                    "unit": "USD",
+                    "value": 359
+                  },
+                  "refundable": true
+                }
+              }
+            ]
+          ]
+        },
+        "aircraft": {
+          "carrier": {
+            "code": "SV",
+            "fullname": "Saudi Arabian Airlines",
+            "shortname": "Saudi Arabian",
+            "image_path": "https://goprivate.wspan.com/sharedservices/images/airlineimages/logoAirSV.gif"
+          },
+          "equipment": {
+            "code": "777",
+            "fullname": "Boeing 777",
+            "shortname": "Boeing 777"
+          },
+          "image_path": "https://goprivate.wspan.com/sharedservices/images/airlineimages/logoAirSV.gif"
+        },
+        "totalDuration": {
+          "day": "0",
+          "hour": "14",
+          "minute": "5",
+          "second": "0"
+        }
+      },
+      "price": {
+        "totalprice_unit": "USD",
+        "totalprice_value": 359
+      }
+    }
+  },
+  "carrier_00f500a0": {
+    "fare_0baa021a": {
+      "0": {
+        "origin": {
+          "airport": {
+            "code": "LHE",
+            "fullname": "Lahore Arpt",
+            "countryCode": "PK",
+            "stateCode": ""
+          },
+          "departure": {
+            "date": {
+              "year": "2023",
+              "month": "02",
+              "day": "28"
+            },
+            "time": {
+              "hour": "06",
+              "minute": "35",
+              "second": "00"
+            },
+            "timezone_stamp": "2023-02-28T06:35:00.000+05:00",
+            "timezone_name": ""
+          }
+        },
+        "destination": {
+          "airport": {
+            "code": "DXB",
+            "fullname": "Dubai Intl Arpt",
+            "countryCode": "AE",
+            "stateCode": ""
+          },
+          "arrival": {
+            "date": {
+              "year": "2023",
+              "month": "03",
+              "day": "01"
+            },
+            "time": {
+              "hour": "02",
+              "minute": "50",
+              "second": "00"
+            },
+            "timezone_stamp": "2023-03-01T02:50:00.000+04:00",
+            "timezone_name": ""
+          }
+        },
+        "flightItinerary": {
+          "totalOptions": 2,
+          "totalStops": 1,
+          "segments": [
+            [
+              {
+                "key": "EsNLbZTqWDKALQ6QEAAAAA==",
+                "flightNumber": "715",
+                "group": 0,
+                "journeyTime": "6 Hours 55 Minutes",
+                "origin": {
+                  "code": "LHE",
+                  "fullname": "Lahore Arpt",
+                  "countryCode": "PK",
+                  "stateCode": ""
+                },
+                "destination": {
+                  "code": "IST",
+                  "fullname": "Ataturk Arpt",
+                  "countryCode": "TR",
+                  "stateCode": ""
+                },
+                "departureTime": {
+                  "date": {
+                    "year": "2023",
+                    "month": "02",
+                    "day": "28"
+                  },
+                  "time": {
+                    "hour": "06",
+                    "minute": "35",
+                    "second": "00"
+                  },
+                  "timezone_stamp": "2023-02-28T06:35:00.000+05:00",
+                  "timezone_name": ""
+                },
+                "arrivalTime": {
+                  "date": {
+                    "year": "2023",
+                    "month": "02",
+                    "day": "28"
+                  },
+                  "time": {
+                    "hour": "11",
+                    "minute": "30",
+                    "second": "00"
+                  },
+                  "timezone_stamp": "2023-02-28T11:30:00.000+03:00",
+                  "timezone_name": ""
+                },
+                "aircraft": {
+                  "carrier": {
+                    "code": "TK",
+                    "fullname": "Turkish Airlines Inc",
+                    "shortname": "Turkish Airlines",
+                    "image_path": "https://goprivate.wspan.com/sharedservices/images/airlineimages/logoAirTK.gif"
+                  },
+                  "equipment": {
+                    "code": "333",
+                    "fullname": "Airbus Industrie A330-300",
+                    "shortname": "Airbus A330-300"
+                  },
+                  "image_path": "https://goprivate.wspan.com/sharedservices/images/airlineimages/logoAirTK.gif"
+                },
+                "totalDuration": {
+                  "day": "0",
+                  "hour": "06",
+                  "minute": "55",
+                  "second": "0"
+                },
+                "bookingInformation": {
+                  "BookingCode": "Q",
+                  "BookingCount": "1",
+                  "CabinClass": "Economy"
+                },
+                "flightDetail": {
+                  "Key": "EsNLbZTqWDKAMQ6QEAAAAA==",
+                  "Equipment": "333",
+                  "AutomatedCheckin": false,
+                  "Origin": "LHE",
+                  "Destination": "IST",
+                  "DepartureTime": "2023-02-28T06:35:00.000+05:00",
+                  "ArrivalTime": "2023-02-28T11:30:00.000+03:00",
+                  "FlightTime": 415,
+                  "TravelTime": 1175
+                },
+                "fareInformation": {
+                  "BaggageAllowance": {
+                    "MaxWeight": {
+                      "Value": 30,
+                      "Unit": "Kilograms"
+                    }
+                  }
+                },
+                "fareDetails": {
+                  "basePrice": {
+                    "unit": "USD",
+                    "value": 257
+                  },
+                  "taxes": {
+                    "unit": "USD",
+                    "value": 206
+                  },
+                  "totalPrice": {
+                    "unit": "USD",
+                    "value": 463
+                  },
+                  "refundable": true
+                }
+              },
+              {
+                "key": "EsNLbZTqWDKANQ6QEAAAAA==",
+                "flightNumber": "760",
+                "group": 0,
+                "journeyTime": "4 Hours 15 Minutes",
+                "origin": {
+                  "code": "IST",
+                  "fullname": "Ataturk Arpt",
+                  "countryCode": "TR",
+                  "stateCode": ""
+                },
+                "destination": {
+                  "code": "DXB",
+                  "fullname": "Dubai Intl Arpt",
+                  "countryCode": "AE",
+                  "stateCode": ""
+                },
+                "departureTime": {
+                  "date": {
+                    "year": "2023",
+                    "month": "02",
+                    "day": "28"
+                  },
+                  "time": {
+                    "hour": "19",
+                    "minute": "55",
+                    "second": "00"
+                  },
+                  "timezone_stamp": "2023-02-28T19:55:00.000+03:00",
+                  "timezone_name": ""
+                },
+                "arrivalTime": {
+                  "date": {
+                    "year": "2023",
+                    "month": "03",
+                    "day": "01"
+                  },
+                  "time": {
+                    "hour": "01",
+                    "minute": "10",
+                    "second": "00"
+                  },
+                  "timezone_stamp": "2023-03-01T01:10:00.000+04:00",
+                  "timezone_name": ""
+                },
+                "aircraft": {
+                  "carrier": {
+                    "code": "TK",
+                    "fullname": "Turkish Airlines Inc",
+                    "shortname": "Turkish Airlines",
+                    "image_path": "https://goprivate.wspan.com/sharedservices/images/airlineimages/logoAirTK.gif"
+                  },
+                  "equipment": {
+                    "code": "333",
+                    "fullname": "Airbus Industrie A330-300",
+                    "shortname": "Airbus A330-300"
+                  },
+                  "image_path": "https://goprivate.wspan.com/sharedservices/images/airlineimages/logoAirTK.gif"
+                },
+                "totalDuration": {
+                  "day": "0",
+                  "hour": "04",
+                  "minute": "15",
+                  "second": "0"
+                },
+                "bookingInformation": {
+                  "BookingCode": "Q",
+                  "BookingCount": "9",
+                  "CabinClass": "Economy"
+                },
+                "flightDetail": {
+                  "Key": "EsNLbZTqWDKAOQ6QEAAAAA==",
+                  "Equipment": "333",
+                  "DestinationTerminal": "1",
+                  "AutomatedCheckin": false,
+                  "Origin": "IST",
+                  "Destination": "DXB",
+                  "DepartureTime": "2023-02-28T19:55:00.000+03:00",
+                  "ArrivalTime": "2023-03-01T01:10:00.000+04:00",
+                  "FlightTime": 255,
+                  "TravelTime": 1175
+                },
+                "fareInformation": {
+                  "BaggageAllowance": {
+                    "MaxWeight": {
+                      "Value": 30,
+                      "Unit": "Kilograms"
+                    }
+                  }
+                },
+                "fareDetails": {
+                  "basePrice": {
+                    "unit": "USD",
+                    "value": 257
+                  },
+                  "taxes": {
+                    "unit": "USD",
+                    "value": 206
+                  },
+                  "totalPrice": {
+                    "unit": "USD",
+                    "value": 463
+                  },
+                  "refundable": true
+                }
+              }
+            ],
+            [
+              {
+                "key": "EsNLbZTqWDKALQ6QEAAAAA==",
+                "flightNumber": "715",
+                "group": 0,
+                "journeyTime": "6 Hours 55 Minutes",
+                "origin": {
+                  "code": "LHE",
+                  "fullname": "Lahore Arpt",
+                  "countryCode": "PK",
+                  "stateCode": ""
+                },
+                "destination": {
+                  "code": "IST",
+                  "fullname": "Ataturk Arpt",
+                  "countryCode": "TR",
+                  "stateCode": ""
+                },
+                "departureTime": {
+                  "date": {
+                    "year": "2023",
+                    "month": "02",
+                    "day": "28"
+                  },
+                  "time": {
+                    "hour": "06",
+                    "minute": "35",
+                    "second": "00"
+                  },
+                  "timezone_stamp": "2023-02-28T06:35:00.000+05:00",
+                  "timezone_name": ""
+                },
+                "arrivalTime": {
+                  "date": {
+                    "year": "2023",
+                    "month": "02",
+                    "day": "28"
+                  },
+                  "time": {
+                    "hour": "11",
+                    "minute": "30",
+                    "second": "00"
+                  },
+                  "timezone_stamp": "2023-02-28T11:30:00.000+03:00",
+                  "timezone_name": ""
+                },
+                "aircraft": {
+                  "carrier": {
+                    "code": "TK",
+                    "fullname": "Turkish Airlines Inc",
+                    "shortname": "Turkish Airlines",
+                    "image_path": "https://goprivate.wspan.com/sharedservices/images/airlineimages/logoAirTK.gif"
+                  },
+                  "equipment": {
+                    "code": "333",
+                    "fullname": "Airbus Industrie A330-300",
+                    "shortname": "Airbus A330-300"
+                  },
+                  "image_path": "https://goprivate.wspan.com/sharedservices/images/airlineimages/logoAirTK.gif"
+                },
+                "totalDuration": {
+                  "day": "0",
+                  "hour": "06",
+                  "minute": "55",
+                  "second": "0"
+                },
+                "bookingInformation": {
+                  "BookingCode": "Q",
+                  "BookingCount": "1",
+                  "CabinClass": "Economy"
+                },
+                "flightDetail": {
+                  "Key": "EsNLbZTqWDKAMQ6QEAAAAA==",
+                  "Equipment": "333",
+                  "AutomatedCheckin": false,
+                  "Origin": "LHE",
+                  "Destination": "IST",
+                  "DepartureTime": "2023-02-28T06:35:00.000+05:00",
+                  "ArrivalTime": "2023-02-28T11:30:00.000+03:00",
+                  "FlightTime": 415,
+                  "TravelTime": 1175
+                },
+                "fareInformation": {
+                  "BaggageAllowance": {
+                    "MaxWeight": {
+                      "Value": 30,
+                      "Unit": "Kilograms"
+                    }
+                  }
+                },
+                "fareDetails": {
+                  "basePrice": {
+                    "unit": "USD",
+                    "value": 257
+                  },
+                  "taxes": {
+                    "unit": "USD",
+                    "value": 206
+                  },
+                  "totalPrice": {
+                    "unit": "USD",
+                    "value": 463
+                  },
+                  "refundable": true
+                }
+              },
+              {
+                "key": "EsNLbZTqWDKAPQ6QEAAAAA==",
+                "flightNumber": "758",
+                "group": 0,
+                "journeyTime": "4 Hours 10 Minutes",
+                "origin": {
+                  "code": "IST",
+                  "fullname": "Ataturk Arpt",
+                  "countryCode": "TR",
+                  "stateCode": ""
+                },
+                "destination": {
+                  "code": "DXB",
+                  "fullname": "Dubai Intl Arpt",
+                  "countryCode": "AE",
+                  "stateCode": ""
+                },
+                "departureTime": {
+                  "date": {
+                    "year": "2023",
+                    "month": "02",
+                    "day": "28"
+                  },
+                  "time": {
+                    "hour": "21",
+                    "minute": "40",
+                    "second": "00"
+                  },
+                  "timezone_stamp": "2023-02-28T21:40:00.000+03:00",
+                  "timezone_name": ""
+                },
+                "arrivalTime": {
+                  "date": {
+                    "year": "2023",
+                    "month": "03",
+                    "day": "01"
+                  },
+                  "time": {
+                    "hour": "02",
+                    "minute": "50",
+                    "second": "00"
+                  },
+                  "timezone_stamp": "2023-03-01T02:50:00.000+04:00",
+                  "timezone_name": ""
+                },
+                "aircraft": {
+                  "carrier": {
+                    "code": "TK",
+                    "fullname": "Turkish Airlines Inc",
+                    "shortname": "Turkish Airlines",
+                    "image_path": "https://goprivate.wspan.com/sharedservices/images/airlineimages/logoAirTK.gif"
+                  },
+                  "equipment": {
+                    "code": "333",
+                    "fullname": "Airbus Industrie A330-300",
+                    "shortname": "Airbus A330-300"
+                  },
+                  "image_path": "https://goprivate.wspan.com/sharedservices/images/airlineimages/logoAirTK.gif"
+                },
+                "totalDuration": {
+                  "day": "0",
+                  "hour": "04",
+                  "minute": "10",
+                  "second": "0"
+                },
+                "bookingInformation": {
+                  "BookingCode": "Q",
+                  "BookingCount": "9",
+                  "CabinClass": "Economy"
+                },
+                "flightDetail": {
+                  "Key": "EsNLbZTqWDKAQQ6QEAAAAA==",
+                  "Equipment": "333",
+                  "DestinationTerminal": "1",
+                  "AutomatedCheckin": false,
+                  "Origin": "IST",
+                  "Destination": "DXB",
+                  "DepartureTime": "2023-02-28T21:40:00.000+03:00",
+                  "ArrivalTime": "2023-03-01T02:50:00.000+04:00",
+                  "FlightTime": 250,
+                  "TravelTime": 1275
+                },
+                "fareInformation": {
+                  "BaggageAllowance": {
+                    "MaxWeight": {
+                      "Value": 30,
+                      "Unit": "Kilograms"
+                    }
+                  }
+                },
+                "fareDetails": {
+                  "basePrice": {
+                    "unit": "USD",
+                    "value": 257
+                  },
+                  "taxes": {
+                    "unit": "USD",
+                    "value": 206
+                  },
+                  "totalPrice": {
+                    "unit": "USD",
+                    "value": 463
+                  },
+                  "refundable": true
+                }
+              }
+            ]
+          ]
+        },
+        "aircraft": {
+          "carrier": {
+            "code": "TK",
+            "fullname": "Turkish Airlines Inc",
+            "shortname": "Turkish Airlines",
+            "image_path": "https://goprivate.wspan.com/sharedservices/images/airlineimages/logoAirTK.gif"
+          },
+          "equipment": {
+            "code": "333",
+            "fullname": "Airbus Industrie A330-300",
+            "shortname": "Airbus A330-300"
+          },
+          "image_path": "https://goprivate.wspan.com/sharedservices/images/airlineimages/logoAirTK.gif"
+        },
+        "totalDuration": {
+          "day": "0",
+          "hour": "21",
+          "minute": "15",
+          "second": "0"
+        }
+      },
+      "price": {
+        "totalprice_unit": "USD",
+        "totalprice_value": 463
+      }
+    }
+  },
+  "carrier_00e4009b": {
+    "fare_0bd5022a": {
+      "0": {
+        "origin": {
+          "airport": {
+            "code": "LHE",
+            "fullname": "Lahore Arpt",
+            "countryCode": "PK",
+            "stateCode": ""
+          },
+          "departure": {
+            "date": {
+              "year": "2023",
+              "month": "02",
+              "day": "28"
+            },
+            "time": {
+              "hour": "15",
+              "minute": "40",
+              "second": "00"
+            },
+            "timezone_stamp": "2023-02-28T15:40:00.000+05:00",
+            "timezone_name": ""
+          }
+        },
+        "destination": {
+          "airport": {
+            "code": "DXB",
+            "fullname": "Dubai Intl Arpt",
+            "countryCode": "AE",
+            "stateCode": ""
+          },
+          "arrival": {
+            "date": {
+              "year": "2023",
+              "month": "03",
+              "day": "01"
+            },
+            "time": {
+              "hour": "06",
+              "minute": "15",
+              "second": "00"
+            },
+            "timezone_stamp": "2023-03-01T06:15:00.000+04:00",
+            "timezone_name": ""
+          }
+        },
+        "flightItinerary": {
+          "totalOptions": 1,
+          "totalStops": 1,
+          "segments": [
+            [
+              {
+                "key": "EsNLbZTqWDKARQ6QEAAAAA==",
+                "flightNumber": "318",
+                "group": 0,
+                "journeyTime": "5 Hours 20 Minutes",
+                "origin": {
+                  "code": "LHE",
+                  "fullname": "Lahore Arpt",
+                  "countryCode": "PK",
+                  "stateCode": ""
+                },
+                "destination": {
+                  "code": "RUH",
+                  "fullname": "Riyadh King Khaled Intl Arpt",
+                  "countryCode": "SA",
+                  "stateCode": ""
+                },
+                "departureTime": {
+                  "date": {
+                    "year": "2023",
+                    "month": "02",
+                    "day": "28"
+                  },
+                  "time": {
+                    "hour": "15",
+                    "minute": "40",
+                    "second": "00"
+                  },
+                  "timezone_stamp": "2023-02-28T15:40:00.000+05:00",
+                  "timezone_name": ""
+                },
+                "arrivalTime": {
+                  "date": {
+                    "year": "2023",
+                    "month": "02",
+                    "day": "28"
+                  },
+                  "time": {
+                    "hour": "19",
+                    "minute": "00",
+                    "second": "00"
+                  },
+                  "timezone_stamp": "2023-02-28T19:00:00.000+03:00",
+                  "timezone_name": ""
+                },
+                "aircraft": {
+                  "carrier": {
+                    "code": "XY",
+                    "fullname": "Flynas National Air Service",
+                    "shortname": "Flynas",
+                    "image_path": "https://goprivate.wspan.com/sharedservices/images/airlineimages/logoAirXY.gif"
+                  },
+                  "equipment": {
+                    "code": "32N",
+                    "fullname": null,
+                    "shortname": null
+                  },
+                  "image_path": "https://goprivate.wspan.com/sharedservices/images/airlineimages/logoAirXY.gif"
+                },
+                "totalDuration": {
+                  "day": "0",
+                  "hour": "05",
+                  "minute": "20",
+                  "second": "0"
+                },
+                "bookingInformation": {
+                  "BookingCode": "O",
+                  "BookingCount": "9",
+                  "CabinClass": "Economy"
+                },
+                "flightDetail": {
+                  "Key": "EsNLbZTqWDKASQ6QEAAAAA==",
+                  "Equipment": "32N",
+                  "OriginTerminal": "M",
+                  "DestinationTerminal": "3",
+                  "AutomatedCheckin": false,
+                  "Origin": "LHE",
+                  "Destination": "RUH",
+                  "DepartureTime": "2023-02-28T15:40:00.000+05:00",
+                  "ArrivalTime": "2023-02-28T19:00:00.000+03:00",
+                  "FlightTime": 320,
+                  "TravelTime": 935
+                },
+                "fareInformation": {
+                  "BaggageAllowance": {
+                    "MaxWeight": {
+                      "Value": 30,
+                      "Unit": "Kilograms"
+                    }
+                  }
+                },
+                "fareDetails": {
+                  "basePrice": {
+                    "unit": "SAR",
+                    "value": 1545
+                  },
+                  "taxes": {
+                    "unit": "USD",
+                    "value": 84
+                  },
+                  "totalPrice": {
+                    "unit": "USD",
+                    "value": 497
+                  },
+                  "refundable": true
+                }
+              },
+              {
+                "key": "EsNLbZTqWDKATQ6QEAAAAA==",
+                "flightNumber": "215",
+                "group": 0,
+                "journeyTime": "2 Hours 0 Minutes",
+                "origin": {
+                  "code": "RUH",
+                  "fullname": "Riyadh King Khaled Intl Arpt",
+                  "countryCode": "SA",
+                  "stateCode": ""
+                },
+                "destination": {
+                  "code": "DXB",
+                  "fullname": "Dubai Intl Arpt",
+                  "countryCode": "AE",
+                  "stateCode": ""
+                },
+                "departureTime": {
+                  "date": {
+                    "year": "2023",
+                    "month": "03",
+                    "day": "01"
+                  },
+                  "time": {
+                    "hour": "03",
+                    "minute": "15",
+                    "second": "00"
+                  },
+                  "timezone_stamp": "2023-03-01T03:15:00.000+03:00",
+                  "timezone_name": ""
+                },
+                "arrivalTime": {
+                  "date": {
+                    "year": "2023",
+                    "month": "03",
+                    "day": "01"
+                  },
+                  "time": {
+                    "hour": "06",
+                    "minute": "15",
+                    "second": "00"
+                  },
+                  "timezone_stamp": "2023-03-01T06:15:00.000+04:00",
+                  "timezone_name": ""
+                },
+                "aircraft": {
+                  "carrier": {
+                    "code": "XY",
+                    "fullname": "Flynas National Air Service",
+                    "shortname": "Flynas",
+                    "image_path": "https://goprivate.wspan.com/sharedservices/images/airlineimages/logoAirXY.gif"
+                  },
+                  "equipment": {
+                    "code": "32N",
+                    "fullname": null,
+                    "shortname": null
+                  },
+                  "image_path": "https://goprivate.wspan.com/sharedservices/images/airlineimages/logoAirXY.gif"
+                },
+                "totalDuration": {
+                  "day": "0",
+                  "hour": "02",
+                  "minute": "0",
+                  "second": "0"
+                },
+                "bookingInformation": {
+                  "BookingCode": "N",
+                  "BookingCount": "9",
+                  "CabinClass": "Economy"
+                },
+                "flightDetail": {
+                  "Key": "EsNLbZTqWDKAUQ6QEAAAAA==",
+                  "Equipment": "32N",
+                  "OriginTerminal": "3",
+                  "DestinationTerminal": "1",
+                  "AutomatedCheckin": false,
+                  "Origin": "RUH",
+                  "Destination": "DXB",
+                  "DepartureTime": "2023-03-01T03:15:00.000+03:00",
+                  "ArrivalTime": "2023-03-01T06:15:00.000+04:00",
+                  "FlightTime": 120,
+                  "TravelTime": 935
+                },
+                "fareInformation": {
+                  "BaggageAllowance": {
+                    "MaxWeight": {
+                      "Value": 30,
+                      "Unit": "Kilograms"
+                    }
+                  }
+                },
+                "fareDetails": {
+                  "basePrice": {
+                    "unit": "SAR",
+                    "value": 1545
+                  },
+                  "taxes": {
+                    "unit": "USD",
+                    "value": 84
+                  },
+                  "totalPrice": {
+                    "unit": "USD",
+                    "value": 497
+                  },
+                  "refundable": true
+                }
+              }
+            ]
+          ]
+        },
+        "aircraft": {
+          "carrier": {
+            "code": "XY",
+            "fullname": "Flynas National Air Service",
+            "shortname": "Flynas",
+            "image_path": "https://goprivate.wspan.com/sharedservices/images/airlineimages/logoAirXY.gif"
+          },
+          "equipment": {
+            "code": "32N",
+            "fullname": null,
+            "shortname": null
+          },
+          "image_path": "https://goprivate.wspan.com/sharedservices/images/airlineimages/logoAirXY.gif"
+        },
+        "totalDuration": {
+          "day": "0",
+          "hour": "15",
+          "minute": "35",
+          "second": "0"
+        }
+      },
+      "price": {
+        "totalprice_unit": "USD",
+        "totalprice_value": 497
+      }
+    }
+  },
+  "totalListingFound": 12
+}
