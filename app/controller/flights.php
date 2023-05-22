@@ -466,6 +466,35 @@ $router->get('flights/booking/invoice/(.*)', function () {
     include layout;
 });
 
+
+$router->get('flights/booking/ticket/(.*)', function () {
+
+    $url = explode('/', $_GET['url']);
+
+    $req = new Curl();
+    $req->get(api_url.'api/flight/invoice?appKey='.api_key.'&invoice_id='.$url[3].'&booking_id='.$url[4] );
+
+    if (!empty($req->response->booking_response)){
+        $booking_ = $req->response->booking_response;
+        $booking = $booking_[0];
+        $routes = json_decode($booking->routes);
+        $passenger = json_decode($booking->booking_guest_info);
+    };
+
+    $title = "Flight Invoice";
+    $meta_title = "Flight Invoice";
+    $meta_appname = "";
+    $meta_desc = "";
+    $meta_img = "";
+    $meta_url = "";
+    $meta_author = "";
+    $meta = "1";
+
+    $invoice = views."modules/flights/invoice.php";
+    $body = ticket_layout;
+    include layout;
+});
+
 /* ---------------------------------------------- */
 // FLIGHTS INVOICE UPDATE
 /* ---------------------------------------------- */

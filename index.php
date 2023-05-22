@@ -161,6 +161,7 @@ define('meta_author',api_url);
 // DEFINE TEMAPLTE VIEWS
 $theme = "default";
 define('invoice_layout', "app/themes/".$theme."/invoice_layout.php");
+define('ticket_layout', "app/themes/".$theme."/ticket_layout.php");
 define('layout', "app/themes/".$theme."/main.php");
 define('views', "app/themes/".$theme."/");
 define('theme_url',"app/themes/default/");
