@@ -9,31 +9,6 @@ if (empty($booking)) {
     echo "<style>header{display:none;}</style><p style='display:flex;justify-content:center;height:100vh;align-items:center;'><strong>Invoice ID or Number is Wrong!</strong></p>";
     die;
 }
-
-// payment status
-if ($booking->booking_payment_status == "unpaid") {
-    $payment_status = T::unpaid;
-}
-if ($booking->booking_payment_status == "paid") {
-    $payment_status = T::paid;
-}
-if ($booking->booking_payment_status == "cancelled") {
-    $payment_status = T::cancelled;
-}
-if ($booking->booking_payment_status == "disputed") {
-    $payment_status = T::disputed;
-}
-
-// booking status
-if ($booking->booking_status == "pending") {
-    $booking_status = T::pending;
-}
-if ($booking->booking_status == "confirmed") {
-    $booking_status = T::confirmed;
-}
-if ($booking->booking_status == "cancelled") {
-    $booking_status = T::cancelled;
-}
 $departure_code = "";
 foreach ($routes[0] as $index => $segment) {
     $departure_code .= '<span class="">' . $segment->departure_code . '<i class="la la-arrow-right"></i> ' . $segment->arrival_code . '</span>' . ',';
@@ -42,11 +17,9 @@ foreach ($routes[0] as $index => $segment) {
         $departure_date = date('Y-m-d', strtotime($segment->departure_date));
         $departure_time = date('H:i:s', strtotime($segment->departure_time));
     }
-    $totalLines =  count($routes[0]) - 1;
-    if ($index = $totalLines) {
-        $arrival_date = date('Y-m-d', strtotime($segment->arrival_date));
-        $arrival_time = date('H:i:s', strtotime($segment->arrival_time));
-    }
+
+    $arrival_date = date('Y-m-d', strtotime($segment->arrival_date));
+    $arrival_time = date('H:i:s', strtotime($segment->arrival_time));
 }
 ?>
 
@@ -198,7 +171,7 @@ foreach ($routes[0] as $index => $segment) {
                                         </div>
                                         <div class="row">
                                             <div class="col-md-12 text-end text-right">
-                                                <p>Solde a regler pour le = 21-May-2023</p>
+                                                <p>Solde a regler pour le = <?= date('d-M-Y') ?></p>
                                             </div>
                                         </div>
                                         <div class="row">
