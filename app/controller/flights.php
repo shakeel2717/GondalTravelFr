@@ -490,8 +490,6 @@ $router->get('flights/booking/ticket/(.*)', function () {
     $meta_author = "";
     $meta = "1";
 
-    dd($routes);
-
     $invoice = views."modules/flights/partcials/ticket.php";
     $body = ticket_layout;
     include layout;
