@@ -15,12 +15,12 @@
                         <label class="form-check-label" for="round-trip"><!--<i class="icon mdi mdi-import-export"></i>--> <?=T::flights_roundtrip?></label>
                     </div>
                 </div>
-                <!--<div class="col-md-4">
+                <div class="col-md-4">
                     <div class="form-check">
                         <input class="form-check-input" type="radio" name="trip" id="multi-trip" onclick="multiway();" value="multi" <?php if ($_SESSION['flights_type'] == 'multiway') { echo "checked"; } else {} ?>>
                         <label class="form-check-label" for="multi-trip"> <?=T::flights_multiway?></label>
                     </div>
-                </div>-->
+                </div>
             </div>
         </div>
         <div class="col-md-2">
@@ -311,10 +311,10 @@ document.getElementById("multiway").className = "";
 document.getElementById("departure").className = "depart form-control dateleft border-top-r0"; }
 
 /* multiway */
-/*document.getElementById("multi-trip").onclick = function() {
+document.getElementById("multi-trip").onclick = function() {
 document.getElementById("multiway").className = "multi-flight-wrap show_";
 document.getElementById("show").className = "col hide";
-document.getElementById("departure").className = "depart form-control"; }*/
+document.getElementById("departure").className = "depart form-control"; }
 
 </script>
 
